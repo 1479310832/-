@@ -1,0 +1,884 @@
+# Hymmnos（塔语）词典 · 共881条 · 来源 github.com/KevinOctavianus/hymmno（HymmnoLexicon 0.3）
+# 列：词	词性	英文释义	原作例句	方言（Unknown [Unofficial] = 同好补充的非官方词，优先用官方词）
+# 用法：grep -i "wind" 设定/参考/hymmnos词典.tsv   （按英文释义查词）
+-	enter	～に入り込む | enter ~		Central
+0	adjective	0	Rrha ki ra echcrra li 0 Rrha ki ra chs maxim  —EXEC_METAFALICA/.	Central Standard Note
+1	adjective	1	fulual 1 dornpica art 1 walasye enne  —EXEC_HIBERNATION/.	Central Standard Note
+10	adjective	10	En 10 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+100	adjective	100	En 100 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+1000	adjective	1000	En 1000 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+10000	adjective	10000		Central Standard Note
+2	adjective	2	En 2 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+3	adjective	3	En 3 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+4	adjective	4	En 4 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+5	adjective	5	En 5 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+6	adjective	6	En 6 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+7	adjective	7	En 7 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+8	adjective	8	En 8 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+9	adjective	9	En 9 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+<-x	language construct	(anaphor indicator)		New Testament of Pastalie
+>>	language construct	Tras	Rrha ki ra nha-HYMMNOS1x01 >> pat mea en xest SOL=MARTA > A2  —EXEC_SOL=FAGE/.	Central
+ADDR	language construct	address designation		Unknown [Unofficial]
+Chronicle Key	n.	Chronicle Key (a hymn)		Alpha (Eolia)
+D_CELL	language construct	D-Cellophane		Unknown [Unofficial]
+Despedia	n.	Despedia (a hymn)		
+Dia	n.	king, throne, ruler	Hyear Ma num ra gyusya yorr ee Dia oz ruinien  —EXEC_DESPEDIA/.	Central Standard Note
+EXA_PICO	noun	Exa Pico		Unknown [Unofficial]
+Fou	E.s. I	A little	Fou paks ra kiafa wael en chs frawr  —Chanting the Moon ~Tsukikanade~	Central Standard Note
+Haibanation	n.	Hibernation (a hymn)		Unknown [Unofficial]
+Harmonius	n.	Harmonious (a hymn)		Central
+Implanta	n.	Implanta (a hymn); God's Tree in the myths of Metafalss, fruit, seed	x. sorr a.u.k. mutrk rhaplanca en Implanta  —METHOD_METAFALICA/.	Unknown [Unofficial]
+Linca	n.	Linker (a hymn)		Central Standard Note
+Ma	E.s. I	presence of mind	Ma ki ra murfanare messe murfanare messe  —Eternally Bonded	Central Standard Note
+Manac	n.	true name, name of soul	knawa Manac yor Manac  —EXEC_DESPEDIA/.	Cult Ciel Note
+Maoh	n.	Rhaplanca's partner in the myths of Metafalss.		Ancient Metafalss
+Meta	noun	Mid-sized mountainous region		Unknown [Unofficial]
+Metafalica	n.	Metafalica (a hymn), Song of Hope (to Mir), Song of Creation, Utopia	Faura selena anw Metafalica  —EXEC_HARMONIOUS	Metafalss Note
+Nn	E.s. I	lethargy	Nn i ga exec hymme METAFALICA >> SOL=FAGE/1x10 enter FRELIA  —EXEC_METAFALICA/.	Central Standard Note
+Paja	n.	Purger (a hymn)		Central Standard Note
+Phantasmagoria	n.	Phantasmagoria (a hymn)		Alpha Note (EOLIA)
+Re=Nation	n.	Re-Nation (a hymn)		Central Standard Note
+Replekia	n.	Replakia (a hymn)		
+Rhaplanca	n.	a goddess from Meta Falss' mythology, and Maoh's partner	Rhaplanca selena phira  —EXEC_METAFALICA/.	Ancient Metafalss
+Rig=Veda	n.	Rigveda (a hymn)		Metafalss Note
+Rrha	E.s. I	trance state (Note	Used only for a trance state in which the emotions of the singer aren't really expressed. Naturally, when this emotion sound is used, it doesn't show the same calm and composure of the other emotion sounds, and it flows by itself from the mouth of the singer): Rrha ki ra chs hymmnos aulla mea tes ciel  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+Sol=Fage	n.	Solfege (a hymn)		
+Sphilia	n.	Sphilia (a hymn)		
+Sublimation	n.	Sublimation (a hymn), sublimation (as in disappear)		
+Suspend	n.	Suspend (a hymn)		Central Standard Note
+U-TA	noun	song		Unknown [Unofficial]
+VIENA	n.	Viena (a hymn)	Wee yea ra exec hymme VIENA >> SOL=FAGE/1x10 enter FRELIA  —EXEC_VIENA/.	
+Was	E.S.I	very intensely	Was yea ra hymme dilete yor enter ar ciel yehar  —Singing Hill - Harmonics FRELIA	Central Standard Note
+Wee	E.S.I	fairly	Wee yea ra enne ar fee ar dor ar ciel  —EXEC_LINKER	Central Standard Note
+a.u.k.	E.v.	be	x. rre omness a.u.k. zodaw ess rudje noglle doodu  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	New Testament of Pastalie
+accrroad	v.	give, send	wee paks ga faf yora accrroad mea  —EXEC_SPHILIA/.	Central Standard Note
+acra	adv.	surely, certainly (Note	Used for expressing something that's highly probable to happen): yorr acra firle wael  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+adyya	n.	today		Central Standard Note
+afezeria	v.	bless	wassee zess frawr bautifal en afezeria  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+ag	conj.	and (Note	Equivalent to the English "and"): x. harr h.m.m.r. eje ag dazua  —METHOD_REPLEKIA/.	New Testament of Pastalie
+aiph	conj.	if	Nnoi crown aiph arsye yor  —The Heart Speaks	Central Standard Note
+aje	adj.	new	x. sorr a.u.k. zess l.l.n. anw aje harphe  —METHOD_IMPLANTA/.	New Testament of Pastalie
+akata	n.	story	Yanyaue akata messe anw hymmne an fhyu  —EXEC_VIENA/.	Central Standard Note
+ale	n.	sound		New Testament of Pastalie
+alroen	n.	Proof, testimony		Unknown [Unofficial]
+alroetsue	adj.	of atonement, of recompense		Metafalss Note
+ammue	n.	sound, sound waves		Cult Ciel Note
+amyure	noun	repentance, penitence		Unknown [Unofficial]
+an	adv.	together	slepir tes pauwel an hyzik  —EXEC_CHRONICLE KEY	Central Standard Note
+anw	prep.	(direct object marker) (Note	The pronunciation changes depending on if the last letter of the preceeding word was a vowel or consonant. The pronunciation used ("anwa" or "anu") depends on which one the speaker thinks that flows and sounds better with the rest of the phrase): Wee ki ra selena anw yasra wiene  —EXEC_CHRONICLE KEY	Metafalss Note
+apea	E.s. (II)	immersed in happiness	Was apea ra chs yuez en yanje yanje pitod yor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+ar	adj.	only, unique	ar w.r.l. du cia dn ryewa keg  —METHOD_METAFALICA/.	Central Standard Note
+araus	v./n.	exchange	Wee ki ra araus tes soare en giue mea iem  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+arhou	n.	hope, wish, blessing	v.s.k. sarr arhou nafa infel  —EXEC_with.METHOD_METAFALICA/.	New Testament of Pastalie
+arrya	n.	arrow		Central Standard Note
+arsye	v.	share	Nnoi crown touwaka arsye yor  —The Heart Speaks	Central Standard Note
+art	conj.	because of, by means of	chs plina en grlanza art fhyu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+asyar	verb	melt into		Unknown [Unofficial]
+aterra	v./n.	accept, receive	presia aterra cremia sos viuy lonfa  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+ates	v.	accept, receive	Was paks ra ates omnis  —EXEC_with.METHOD_METAFALICA/.	Unknown [Unofficial]
+au	E.s. (II)	sad	na au an Diasee an Diasee eterne  —EXEC_SUSPEND/.	Alpha Note (EOLIA)
+aulla	v.	open, disclose, reveal	mea irs here aulla omnis  —EXEC_SPHILIA/.	Central Standard Note
+ayulsa	n.	eternity, for the eternity, continues forever	x. rre f.r.l. h.l.s.s. ayulsa dazua  —METHOD_REPLEKIA/.	New Testament of Pastalie
+balduo	adj.	dark, of darkness, unable to be seen	x. sorr k.v.r. du qejyu dn balduo  —METHOD_REPLEKIA/.	New Testament of Pastalie
+bale	n.	ball, jewel		Central Standard Note
+bansh	v.	(violently) open (a door etc.)		Central Standard Note
+basilic	n.	big snake, (derivative meanings) gun, cannon		Central Standard Note
+bautifal	adj.	beautiful	Was yea ra vit bautifal faura anw dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+beja	v.	dirty, defile	Vinan wis pitod re beja  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+beng	conj.	before (time), ago		Central Standard Note
+bengnuih	n.	evening, dusk		Central Standard Note
+bexm	v.	come (time)	En 1 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+biron	v.	continue	Rrha ki ra biron wael wassa  —EXEC_SOL=FAGE/.	Central Standard Note
+bister	n.	beast	chs bister en rana anw dor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+boches	n.	mouth		Central Standard Note
+boh	adj.	explosive, supernatural		Metafalss Note
+brinch	n.	branch		Central Standard Note
+briyante	n.	voices of delight, voices of joy	was yea ra messe anw briyante  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Metafalss Note
+briyua	adjective	happy, joyful		Unknown [Unofficial]
+burle	adj./n.	blue	celetille burle bautifal grrena  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+byui	conj.	blame, cause of	x. rre h.m.m.r. byui q.l.s. du sechel  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+c.z.	E.v.	transform	h.m.m.r. c.z. hymmnos sev  —METHOD_METAFALICA/.	New Testament of Pastalie
+calamila	noun	catastrophe		Unknown [Unofficial]
+cause	v.	curse, torment	Rrha paks ra chs shazra cause yor  —EXEC_DESPEDIA/.	Metafalss Note
+cecet	n.	shield		Central Standard Note
+ceku	n.	friend, comrade, companion, comrade		New Testament of Pastalie
+celetille	adj.	vivid, clear, fresh, beautiful	celetille clalliss xel marta pom mea  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+celle	adv.	heavenly	ciel ar celle weak ar quive  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+cenjue	v.	change, transform (Note	Has stronger connotations than "chs". This one doesn't mean the "wish" to change, but rather actually changing. It's an orthodox word not used by normal people. If it's preceeded by "na", then it takes the opposite meaning: indicating extreme firmness and determination): en whai pauwel gaunji yasra whou na cenjue sor tou zuieg  —EXEC_CHRONICLE KEY	Metafalss Note
+cerchio	n.	possibility		Central Standard Note
+cest	adj./n.	of the true, true, real, truth	celetille clalliss cest innna mea  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+cexm	v.	come (person), visit	Faura cexm here shellan mea  —EXEC_SPHILIA/.	Central Standard Note
+chanti	n./v.	praise, reward	weal acra yorr chanti mea  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+chess	n./v.	kiss	en chess won vinan jambea mea gigeadeth zeeth tie yor  —EXEC_DESPEDIA/.	
+chiess	n./v.	kiss		Central Standard Note
+chs	v.	become (Note	Used metaphorically for whenever one wishes to change completely. It has an enormous variety of uses): Was yea erra chs sheak en sol anw yeal  —EXEC_VIENA/.	Central Standard Note
+chsee	v.	transform into ~ (Note	Indicates increase, partial change or reductions on oneself or in the target. In short, it's used to express partial physical change).: En chsee fwal fwal mea  —EXEC_LINKER	Central Standard Note
+chyet	adj.	chosen, particular		Cult Ciel Note
+cia	n.	sky	ar w.r.l. du cia dn ryewa keg  —METHOD_METAFALICA/.	New Testament of Pastalie
+ciel	n.	sky, (translated usually as) world	Harr re heighte der gauzewiga oz ciel  —EXEC_METAFALICA/.	Central Standard Note
+ciellenne	n.	the skies		Central Standard Note
+cietta	conjunction	because, but, although		Unknown [Unofficial]
+clalliss	n./v.	color	clalliss vinan frawr  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+clamour	n.	knee, lap	Hyear Ma num ra gyusya yorr dewee won clamour yor  —EXEC_DESPEDIA/.	Central Standard Note
+clare	adj.	clear, transparent	lusye ar clare  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+clemezen	adj./n.	insane, insanity	Rrha yea ra dsier yor rol clemezen  —EXEC_DESPEDIA/.	Central Standard Note
+clyncye	n.	purity, colorlessness	clyncye rudje clalliss mea  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+coall	verb	return		Unknown [Unofficial]
+colga	n.	ice		Central Standard Note
+colgen	v./adj.	freeze, frozen	Ween colgen fayra Race mea wis gigeadeth zeeth tie yor  —EXEC_DESPEDIA/.	Unknown [Unofficial]
+coree	preposition	within my heart		Unknown [Unofficial]
+corle	noun	shard, fragment		Unknown [Unofficial]
+corpu	noun	body, flesh		Unknown [Unofficial]
+crannidale	v.	share, (possible alternate translation) believe	crannidale infel en kapa  —EXEC_METAFALICA/.	Metafalss Note
+cremia	v./n,	salvation	presia aterra cremia sos viuy lonfa  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+crown	n.	cup (for beverages)	Nnoi crown touwaka arsye yor  —The Heart Speaks	Unknown [Unofficial]
+crudea	n.	anguish, suffering	van fandel crudea ousye  —EXEC_HARMONIOUS	Metafalss Note
+crushue	v.	spin (fabric), (translated usually as) craft	Was yea ra enne en crushue gyen METAFALICA ee sosar  —Singing Hill - Harmonics FRELIA	Metafalss Note
+cupla	n.	sin	na siss cupla  —EXEC_SPHILIA/.	Central Standard Note
+cyuie	adj.	sad, sorrowful	Rrha cyuie gaya na ieeya crushue anw dornpica rhaplanca  —EXEC_HIBERNATION/.	Central Standard Note
+cyurio	n.	reason, logic, order		Central Standard Note
+d.n.	E.v.	dance		New Testament of Pastalie
+d.n.g.	E.v.	pierce		Pastalie [Unofficial]
+d.r.s.n.	E.v.	handed down, passed down, passed on	x. sorr d.r.s.n. sarla vl shen  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+d.s.s.n.	E.v.	accept the atonement		Pastalie [Unofficial]
+d.z.	E.v.	die		New Testament of Pastalie
+daedu	n.	eyesore, something ugly	x. sorr m.r.r. du daedu ag ujes  —METHOD_REPLEKIA/.	New Testament of Pastalie
+daf	preposition	for, that		Unknown [Unofficial]
+dand	n.	door		Central Standard Note
+dauan	n.	dawn	Ma num ra slep faura etealune na dauan  —EXEC_HIBERNATION/.	Central Standard Note
+dauane	adj.	of the dawn	wassee forgandal dauane keenis na nozess  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+dazua	n./adj.	darkness, dark	x. harr h.m.m.r. eje ag dazua  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+dea	preposition, particle	with, by means of		Unknown [Unofficial]
+deata	v.	judge, convict, administer judgment	Wassee fatere gyajlee deata  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+deggeez	v./n.	betray, disobey, betrayal	En yorr re deggeez art ciel  —EXEC_SPHILIA/.	Central Standard Note
+degle	v.	destroy, overthrow, ruin		Cult Ciel Note
+dejuy	n.	atonement		New Testament of Pastalie
+deleir	n.	calamity, disaster	fatere tes pauwel chs deleir en ousye yor  —EXEC_CHRONICLE KEY	Alpha Note (EOLIA)
+delij	v.	hate, shun, neglect	aiph yos delij zuieg en nedle eterne falfa  —EXEC_CHRONICLE KEY	Alpha Note (EOLIA)
+den	conj.	however, but, still, and yet (Note	Connective for opposite sentences): llizz discest vine den kuhle  —The Heart Speaks	Central Standard Note
+denera	n.	evil one	Was i ga denera wart  —EXEC_HIBERNATION/.	Central Standard Note
+der	prep.	according to, by means of	yehar lamenza der soare mea  —EXEC_CHRONICLE KEY	Metafalss Note
+desfel	adj./v.	hate, dislike, detestable, unpleasant	Yorr desfel  —EXEC_SPHILIA/.	Metafalss Note
+dest	verb	destroy, obliterate, bring to an end		Unknown [Unofficial]
+deu	preposition, particle	thus, therefore, and		Unknown [Unofficial]
+dewee	v.	kneel	Hyear Ma num ra gyusya yorr dewee won clamour yor  —EXEC_DESPEDIA/.	Unknown [Unofficial]
+dgal	n.	country, land	x. rre vege dgal a.u.k. zz papana  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+dhezeall	n./adj.	captive, prisoner, imprisoned	Ma num ra tictim yorr wis dhezeall DESPEDIA/.  —EXEC_DESPEDIA/.	Metafalss Note
+diasee	n.	child of God	Rrha ki ra ferda jouee diasee  —EXEC_METAFALICA/.	Metafalss Note
+didalia	adj.	large	tes didalia dorn  —EXEC_METAFALICA/.	Cult Ciel Note
+dilete	n.	God's breath, God's divine protection (Song Magic effects is defense and status increases)	Was yea ra hymme dilete yor enter ar ciel yehar  —Singing Hill - Harmonics FRELIA	Central Standard Note
+discest	v./n.	lie, cheat, trick	llizz discest vine den kuhle  —The Heart Speaks	Central Standard Note
+dius	adj.	divine, sacred, precious, valuable, sublime, solemn, noble	Fou paks ra diasee sarrifis hyzik tes dius yor  —EXEC_LINKER	Cult Ciel Note
+diviega	n., adj.	sacred sword, (derivative meaning) great wisdom	ya ya diviega ya ya ya ya ya enclone sor en rre hymmnos ee powel  —Singing Hill - Harmonics FRELIA	Cult Ciel Note
+dje	n.	body	x. rre govan en wefa sarla f.w.r.n. du dje  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+dn	p.	(instrument/location/cause/time marker) (Note	Used to indicate means. Equivalent to the English "by").: ag t.n. za v.t. dn balduo sefanl  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+doodu	n.	ground, earth	x. rre rhaplanca t.n.m.n. poe ess gkgul doodu  —METHOD_METAFALICA/.	New Testament of Pastalie
+dople	v.	remove, exclude, reject	tasyue anw ciel en dople anw omnis lamenza  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+dor	n.	ground, continent	Ar dor ar dor  —EXEC_METAFALICA/.	Central Standard Note
+dorn	n.	tree, wood	sara dorn fhyu hymma  —Singing Hill	Central Standard Note
+dornpica	n.	nut, fruit, seed	Was yea ra crushue anw yehah dornpica rhaplanca  —EXEC_HIBERNATION/.	Cult Ciel Note
+dralee	v./n.	Offer, offering		Unknown [Unofficial]
+drone	v.	download, take in	exec drone hymmnos enter yor  —Singing Hill	Central Standard Note
+dsier	n.	desire	gott getrra dsier gyusya mea  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+du	p.	(direct object marker)	x. harr k.v.r. du qejyu  —METHOD_REPLEKIA/.	New Testament of Pastalie
+dyya	n.	day (Note	Used only for phrases such as "one day" or "that day". For phrases with aa definite number of days, "dyyal" is used instead)	Central Standard Note
+dyyal	n.	days (counter suffix)	En 1 dyyal nuih bexm  —EXEC_HIBERNATION/.	Central Standard Note
+eazas	adj.	mutually (Note	It can be attached to the end of a verb, like this: "hartes eazas" -> "mutual love"): Was quel erra chs lusye eazas  —EXEC_VIENA/.	Central Standard Note
+echrra	v.	resonate	Ar ciel en echrra eje  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+ee	v.	exalt, praise	Urr dius dor ee  —EXEC_METAFALICA/.	Metafalss Note
+eetor	n.	other (side/person)		Central Standard Note
+eje	n.	heart, mind, feeling	Ar ciel en echrra eje  —EXEC_with.METHOD_METAFALICA/.	New Testament of Pastalie
+elle	prep.	from, out of (Note	It's similar in meaning and use to the English "from"): elle nnoi na haf yasra wharn  —EXEC_SPHILIA/.	Central Standard Note
+elye	adv.	hitherto, yet		New Testament of Pastalie
+en	conj.	and, because, for (Note	Direct equivalent to the English "and"): en weel waath dius manaf Yat  —EXEC_LINKER	Central Standard Note
+enclone	v.	wrap up	Presia yasra lusye enclone anw omnis  —EXEC_HARMONIOUS	Metafalss Note
+endia	v.	stop, end	Sos yor yanje revm na endia revm yehah revm  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+ene	v.	think, feel deeply	Wee yea ra ene foul enrer  —Hoshiyomi ~HOSHIYOMI~	Cult Ciel Note
+enegd	v.	become numb		Central Standard Note
+enerel	adv.	always, forever		Cult Ciel Note
+enesse	n.	emotion	walasye near enesse mea paul li ciel  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+engassya	n.	sacrifice		Central Standard Note
+engua	adjective	predestined, inevitable, unchangeable		Unknown [Unofficial]
+enne	n.	prayer, request (with good intentions)	Was yea ra enne ar ciel  —EXEC_HIBERNATION/.	Central Standard Note
+enrer	adv.	always, usually	Wee yea ra ene foul enrer  —Singing Hill	Cult Ciel Note
+enter	verb	enter	Nn i ga exec hymme METAFALICA >> SOL=FAGE/1x10 enter FRELIA  —EXEC_METAFALICA/.	Central Standard Note
+envied	adjective	stupid, idiotic		Unknown [Unofficial]
+enw	conj.	while doing ~	was yea ra wael yorr uteu enw fernia  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+erlla	adjective, adverb	very much, more, further		Unknown [Unofficial]
+erphy	noun	memory, rememberance		Unknown [Unofficial]
+erra	E.s. III	I want this to last eternally	Was yea erra chs sheak en sol anw yeal  —EXEC_VIENA/.	Central Standard Note
+ess	prep.	(instrument/location/cause/time marker) (Note	Equivalent to the English "in"): x. rre omness a.u.k. zodaw ess rudje noglle doodu  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	New Testament of Pastalie
+et	adj.	large	Wee yea ra hymme hymmnos harmon en syast et wi powel  —Singing Hill - Harmonics FRELIA	Central Standard Note
+eta	v.	eat	Was paks ra eta bautifal faura tes dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+etealune	n.	eternity	Ma num ra slep faura etealune na dauan  —EXEC_HIBERNATION/.	Metafalss Note
+eterne	n.	eternity	Was au ga chs mea eterne manaf  —EXEC_LINKER	Alpha Note (EOLIA)
+eux	n.	eye		Central Standard Note
+ewle	adj.	long		Unknown [Unofficial]
+exali	adj.	radiant, dazzling	x. rre exali sarr w.r.m. anw sphaela  —METHOD_IMPLANTA/.	Pastalie [Unofficial]
+exec	v.	execute, put into practise	Wee yea ra exec hymme VIENA >> SOL=FAGE/1x10 enter FRELIA  —EXEC_VIENA/.	Central Standard Note
+f.p.n.	E.v.	downpour	x. rre vonn papana f.p.n. ut kvyeire qoga iem  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	Pastalie [Unofficial]
+f.r.l.	E.v.	be frightened	x. rre f.r.l. h.l.s.s. ayulsa dazua  —METHOD_REPLEKIA/.	New Testament of Pastalie
+f.s.	E.v	whisper, murmur	y.z.t. za rre vega f.s. t.k.d. ag zz t.k.d. tie hartes yor  —METHOD_METAFALICA/.	New Testament of Pastalie
+f.w.r.	E.v.	accept		New Testament of Pastalie
+f.w.r.n.	E.v.	surround, enfold	f.w.r.n. yor herr en harr mea infel  —EXEC_with.METHOD_METAFALICA/.	New Testament of Pastalie
+faf	adj.	scary, frightening	wee paks ga faf yora accrroad mea  —EXEC_SPHILIA/.	Cult Ciel Note
+faiy	adj.	momentary, transient		Unknown [Unofficial]
+faja	v.	advance, make progress (Note	It's used for indicating the advancing of an individual or small groups. For the advancing of large groups, "Zahha" it's used instead).	Cult Ciel Note
+falfa	n.	peace	aiph yos delij zuieg en nedle eterne falfa  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+famfa	v.	fly, flap wings	Chs hymma en famfa der ciel  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+fanalea	adj.	loudly, sonorously		Unknown [Unofficial]
+fandel	adj.	many, in great numbers	w.n.s. rhaplanca ween fandel walasye  —EXEC_with.METHOD_METAFALICA/.	Metafalss Note
+fane	n.	affection, kindness, love	wassee anw fane lusye  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+fatele	n.	father	Faura sonwe murfan anw fatele  —EXEC_HARMONIOUS	Metafalss Note
+fatere	adv.	if not ~ then probably ~	fatere tes pauwel chs deleir en ousye yor  —EXEC_CHRONICLE KEY	Central Standard Note
+fau	n.	bird (Note	not used for small birds): der sacra rol fau ween leaff  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+faura	n.	small/baby bird	Was yea ra vit bautifal faura anw dornpica  —EXEC_HIBERNATION/.	Metafalss Note
+fayra	n.	fire, blaze	rivire plina fayra clalliss sphilar  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+fedyya	n.	tomorrow (Note	Can also mean "future"): Nnoi fedyya murfan arsye yor  —The Heart Speaks	Central Standard Note
+fee	n.	wind	Wee yea ra enne ar fee ar dor ar ciel  —EXEC_LINKER	Unknown [Unofficial]
+ferda	v.	dwell, live in	Presia yehar zadius rum ferda yor der sarla mea  —EXEC_HARMONIOUS	Metafalss Note
+fernia	v.	smile	was yea ra wael yorr uteu enw fernia  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+fhau	noun	light		Unknown [Unofficial]
+fhauri	adjective	light-borne		Unknown [Unofficial]
+fhyu	n.	wind	Ma num wa nnoini li fhyu  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+firanzia	n.	end of the world		Unknown [Unofficial]
+firga	noun	past		Unknown [Unofficial]
+firle	v.	feel, sense	Whai firle hierle so  —EXEC_SPHILIA/.	Metafalss Note
+flare	v.	float, suspend (in the air)		Central Standard Note
+flip	v.	reverse, command for flip-flop conversion	Ma num ra flip 0x1011001001 yor  —Singing Hill	Cult Ciel Note
+fluy	n.	spring, well	Fowrlle art fluy presia sonwe  —EXEC_SPHILIA/.	Central Standard Note
+focs	adj.	deep, thick		Unknown [Unofficial]
+fogabe	v.	forgive, allow, pardon	Was ki ra na fogabe anw sial gyaje  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+folten	prep.	before (position/direction), in front of		Central Standard Note
+forgandal	Con.	Because of...!	Rrha yea ra haf yor forgandal  —EXEC_DESPEDIA/.	Cult Ciel Note
+forlindel	n.	head family of a village		Cult Ciel Note
+forlinden	n.	village		Cult Ciel Note
+foul	n.	wonder, miracle, mystery	Wee yea ra ene foul enrer  —Singing Hill	Cult Ciel Note
+fountaina	v./adj.	fill up, cover, hide (Note	It can also be used as an adjective to indicate the amount and scope of something): fountaina yor der rudje  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+fowrlle	v./n.	comfort, heal, relaxation	na fowrlle heighte  —EXEC_SPHILIA/.	Central Standard Note
+frawr	n.	flower	chs frawr  —Hoshiyomi ~HOSHIYOMI~	Central Standard Note
+frawrle	n.	spring (season)		Cult Ciel Note
+frissoner	v.	shiver	Rrha ki ra frissoner mea spiritum  —EXEC_SOL=FAGE/.	Central Standard Note
+frreie	v.	release	Was yea ra frreie yor wart en chs manaf an yor  —EXEC_LINKER	Unknown [Unofficial]
+fs	n.	breeze (when it has an "E" emotion vowel in front, its meaning changes to "whisper").		New Testament of Pastalie
+ftt	v.	vanish	Gat fusya en ciel ftt  —EXEC_VIENA/.	Central Standard Note
+fulual	v.	come true (wish)	fulual 1 dornpica art 1 walasye enne  —EXEC_HIBERNATION/.	Central Standard Note
+fusya	v.	wrap	Gat fusya en ciel ftt  —EXEC_VIENA/.	Central Standard Note
+futare	n.	future	van futare parge iem  —EXEC_VIENA/.	Central Standard Note
+fwal	n./v.	wing, advance, transport	En chsee fwal fwal mea  —EXEC_LINKER	Cult Ciel Note
+fwilla	n.	drop, droplet	fwilla selena yasra sarla  —Colors~SEN~Will This Flower Bloom?	
+fwillra	n.	feather, plumage, petal (Note	contrary to "fwal", which means "wings", "fwirlla" only refers to the feathers and plumage): sash fwillra ween papana  —EXEC_SPHILIA/.	Cult Ciel Note
+g.k.n.	E.v.	eat		New Testament of Pastalie
+g.v.w.	E.v.	fight, battle	s.l.y. yor sev x. rre yorr g.v.w. en x.y.n.  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+g.w.f.r.	E.v.	judge		New Testament of Pastalie
+g.w.n.	Emotion Verb	lead, guide		Pastalie [Unofficial]
+ga	E.s. III	I want this to end soon	Was paks ga suwant mea irs here an yor  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+gagis	E.s. III	I'm all right like this	Rrha i gagis guatrz gyas  —EXEC_HIBERNATION/.	Metafalss Note
+ganna	adj./n.	strong, stubborn, solid, stone, rock (Note	It's normally used to indicate the hardness of a material or the stubbornness of a mind. As a noun, it means "rock" and "stone"): cest yor vianchiel ween ganna shell  —EXEC_SPHILIA/.	Central Standard Note
+garlden	n.	town		Central Standard Note
+gasar	n.	doll, stuffed animal		New Testament of Pastalie
+gat	n.	curse	Ciel fusya en gat ftt  —EXEC_VIENA/.	Central Standard Note
+gatyunla	n.	cursed land, hell		Cult Ciel Note
+gatyuny	n.	curse		Cult Ciel Note
+gaunji	v.	torment, torture	en whai pauwel gaunji yasra whou na cenjue sor tou zuieg  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+gauto	noun	dark skies, overcast, dark clouds		Unknown [Unofficial]
+gauv	n.	sin, blame		Unknown [Unofficial]
+gauzewiga	v.	despair	van fandel gauzewiga der lamenza  —EXEC_HARMONIOUS	Metafalss Note
+gaya	E.s. III	I never want to go back to how I was before	Rrha cyuie gaya na ieeya crushue anw dornpica rhaplanca  —EXEC_HIBERNATION/.	Central Standard Note
+geeow	n./v.	oath, vow, resolve		Central Standard Note
+getrra	adj.	dirty, impure	Rrha ki ra hymme PAJA yor getrra en gott wi gyas  —EXEC_PURGER/.#Aurica extracting	Central Standard Note
+gfine	noun	time		Unknown [Unofficial]
+gigeadeth	adj./n.	steel, iron (Note	It can be used both as an adjective and a noun): Ween colgen fayra Race mea wis gigeadeth zeeth tie yor  —EXEC_DESPEDIA/.	Central Standard Note
+giue	n.	body	Wee ki ra araus tes soare en giue mea iem  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+giz	n./v.	fear, dread, terror	vega ouvyu giz sphaela  —METHOD_REPLEKIA/.	Unknown [Unofficial]
+gkgul	adj.	cracked	x. rre rhaplanca t.n.m.n. poe ess gkgul doodu  —METHOD_METAFALICA/.	New Testament of Pastalie
+glansee	adj.	divine, exalted (Note	adding "LYA" before it changes its meaning to "God").: x. rre urgn zz t.k.d. ut glansee  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+glasden	adj.	highest, supreme, most	Was yea ra chs hymmnos la glasden yehah  —EXEC_SOL=FAGE/.	Metafalss Note
+goa	conj.	only ~ (it's used in the same way as the English "only")	x. harr v.t. goa balduo sphaela  —METHOD_REPLEKIA/.	New Testament of Pastalie
+gool	adjective	starved, parched		Central Standard Note
+got	v.	get, obtain	Rrha yea ra rinc en echrra yor rre walasye jyel got ieeya  —Singing Hill - Harmonics FRELIA	Cult Ciel Note
+gott	v	Get off! Go away! (dirty feeling)	Rrha ki ra hymme PAJA yor getrra en gott wi gyas  —EXEC_PURGER/.#Aurica extracting	Central Standard Note
+govan	adj.	violent, excited, vehement, intense	x. rre govan en wefa sarla f.w.r.n. du dje  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+govaz	n.	fiancee		Cult Ciel Note
+gral	adj.	all of, entire		New Testament of Pastalie
+gran	v.	open the curtain	Rrha ki ga gran wael wassa  —EXEC_SOL=FAGE/.	Cult Ciel Note
+grandee	n.	guardian	Wee ki ra chs Chronicle Key en grandee sos dius yor  —EXEC_CHRONICLE KEY	Metafalss Note
+grandus	v.	defend, protect	Forgandal ar dius near grandus mea der dilete  —Singing Hill - Harmonics FRELIA	Metafalss Note
+granme	E.s. II	Wishing to protect someone, courage	Den harr granme irs pitod enrer  —EXEC_METAFALICA/.	Central Standard Note
+grave	n.	mountain recesses, interior (of a building, etc.)		Cult Ciel Note
+grlanza	v.	dance	chs plina en grlanza art fhyu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+grow	adjective	insolent, arrogant		Unknown [Unofficial]
+grrena	adj./n.	green (Note	It can be used both as a noun and adjective. As a noun, it's used for non-green plants): celetille burle bautifal grrena  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+grruw	v.	raise, grow up	Was yea ra grruw heetha  —EXEC_HIBERNATION/.	Central Standard Note
+guard	n.	protection		Central Standard Note
+guatrz	n.	anger, hatred	zadius en guatrz omnis mea  —EXEC_SPHILIA/.	Central Standard Note
+guaysu	v.	hang one's head (in shame, etc.)	Was nyasri ga hieg yorra guaysu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+guol	v.	close (a door, etc.)		Central Standard Note
+guwo	E.s. II	anger, resentment	faf mea guwo mea  —EXEC_SPHILIA/.	Central Standard Note
+gyaje	n.	error, mistake	Was ki ra na fogabe anw sial gyaje  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+gyajlee	n.	criminal, sinner	Wassee fatere gyajlee deata  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+gyas	n.	evil spirit, bad component	Rrha ki ra hymme PAJA yor getrra en gott wi gyas  —EXEC_PURGER/.#Aurica extracting	Central Standard Note
+gyen	v.	spin, craft, create magic	Was yea ra hymme mea ks maya gyen yeal  —Hoshiyomi ~HOSHIYOMI~	Cult Ciel Note
+gyenel	n.	wizard, mage, sorcerer		Cult Ciel Note
+gyengyat	v.	devour, lustfully eat		Cult Ciel Note
+gyuss	n.	embrace, hug	Tasyue anw gyuss en yosyua yor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+gyusya	v.	rule, control	Hyear Ma num ra gyusya yorr ee Dia oz ruinien  —EXEC_DESPEDIA/.	Central Standard Note
+h.k.t.t.	E.v.	embrace, hug		New Testament of Pastalie
+h.l.s.s.	E.v.	grieve, sigh	x. rre f.r.l. h.l.s.s. ayulsa dazua  —METHOD_REPLEKIA/.	New Testament of Pastalie
+h.m.m.r.	E.v.	sing	h.m.m.r. et  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	New Testament of Pastalie
+h.p.p.	E.v.	think, feel		New Testament of Pastalie
+h.p.ps.	E.v.	have (someone) on one's mind		New Testament of Pastalie
+h.r.n.t.	E.v.	go on a journey		New Testament of Pastalie
+h.w.s.s.	E.v.	grow, mature	x. rre poe h.w.s.s. ut varda  —METHOD_METAFALICA/.	New Testament of Pastalie
+haf	v.	have, own, hold	Den harr haf nell pauwel  —EXEC_METAFALICA/.	Central Standard Note
+handeres	n./v.	defeat, loss		Central Standard Note
+hao	adj.	above, superior		Central Standard Note
+harmon	v.	do ~ together (in great numbers)	Wee yea ra hymme hymmnos harmon en syast et wi powel  —Singing Hill - Harmonics FRELIA	Central Standard Note
+harphe	n.	morning	x. sorr a.u.k. zess l.l.n. anw aje harphe  —METHOD_IMPLANTA/.	New Testament of Pastalie
+harr	pro.	she	x. harr h.m.m.r. eje  —METHOD_REPLEKIA/.	Central Standard Note
+harra	pro.	she (plural)		Central Standard Note
+hars	n.	her (plural)		Central Standard Note
+hartes	v.	love	y.z.t. za rre vega f.s. t.k.d. ag zz t.k.d. tie hartes yor  —METHOD_METAFALICA/.	Cult Ciel Note
+harton	n.	love	Wee yea ra reen harton yos warma hynne reen yos warma hynne  —Eternally Bonded	Central Standard Note
+has	n.	her	Rre fandel heighte has en plina  —EXEC_METAFALICA/.	Central Standard Note
+hasyu	n.	fish	chs hasyu en zassyen der sielp  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+heath	adj.	scalding hot		Central Standard Note
+heetha	adj./n.	health, healthy	Was yea ra grruw heetha  —EXEC_HIBERNATION/.	Central Standard Note
+heighte	v.	injure, wound	gott denera heighte mea  —Colors~SEN~Will This Flower Bloom?	Metafalss Note
+hellei	E.s. II	(unknown meaning)	Fou hellei ga  —EXEC_HARMONIOUS_FUSION/.	
+her	pro.	this		Central Standard Note
+here	adv.	here	Den here irs ar vinan frawr ween titilia shellan  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+herr	pro.	he	f.w.r.n. yor herr en harr mea infel  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+herra	pro.	he (plural)	herra pagle harr riomo hueaf  —EXEC_METAFALICA/.	Central Standard Note
+hers	n.	him (plural)		Central Standard Note
+hes	n.	him		Central Standard Note
+hieg	adj./v.	sad, to be sad	Was nyasri ga hieg yorra guaysu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+hierle	adj./v.	sad, to be sad	tasyue yorr yehar elle fandel hierle  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+hiew	n.	sadness		New Testament of Pastalie
+hiewi	adj.	heart-breaking, sad		New Testament of Pastalie
+hiralg	n.	thirst	x. rre qejyu ssvid hiralg ag xevxl  —METHOD_METAFALICA/.	Unknown [Unofficial]
+hopb	n.	heart, mind (when presenting it as a phenomenon)	innna ar hopb syec mea ya ya  —Singing Hill	Cult Ciel Note
+houd	v.	embrace, hug	Was yea ra ieeya houd  —Eternally Bonded	Central Standard Note
+how	conj.	how, like ~	sacra how clalliss  —EXEC_HARMONIOUS_FUSION/.	Unknown [Unofficial]
+hueaf	adj./n.	futile, useless, worthless, waste of effort	herra pagle harr riomo hueaf  —EXEC_METAFALICA/.	Central Standard Note
+hyear	int.	hey, you (to get someone's attention) (Note	Used both for admiration and calling. It can be pronounced as "hyear" or "ya", but generally, "ya" is the only way used because of being faster to pronounce): yehar hyear Rrha num ra hymme cest mea  —EXEC_METAFALICA/.	Central Standard Note
+hyma	v.	listen (to words)		Central Standard Note
+hymma	n.	small bird (Note	This word originally meant "music player", and it originated from "hymme").: Chs hymma en famfa der ciel  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+hymme	v./n.	sing, play (a instrument), resonate (Note	It can be also used as a noun. In that case, it would mean "waves", "waving", and "vibration of formless things").: Fou yea ra waath ar ciel en hymme mea weel nepo en keen ar sar  —EXEC_PHANTASMAGORIA/.	Central Standard Note
+hymmne	n.	sound waves, tune, melody (Note	Has lighter connotations than Hymmnos. It actually is used for talking about songs in a more superficial form).: chs hymmne  —Hoshiyomi ~HOSHIYOMI~	Central Standard Note
+hymmnos	n.	song, Hymmnos	Was yea ra chs hymmnos yor  —Singing Hill	Central Standard Note
+hynne	n.	voice	Kiafa hynne mea pagle tes yor  —EXEC_SPHILIA/.	Central Standard Note
+hyzik	n.	body	Fou paks ra diasee sarrifis hyzik tes dius yor  —EXEC_LINKER	Alpha Note (EOLIA)
+i	E.s. II	impatience	Nn i ga exec hymme METAFALICA >> SOL=FAGE/1x10 enter FRELIA  —EXEC_METAFALICA/.	Central Standard Note
+iasien	n.	morning dew	Wee yea ra rre lyafre famfa en jass anw iasien  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+ides	n.	past	ides loss bautifal sarla  —EXEC_SPHILIA/.	Central Standard Note
+idesy	adj.	of the past	art crudea en raklya art idesy memora  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+ieeya	n.	hope, wish	ieeya  —EXEC_HIBERNATION/.	Central Standard Note
+iem	n.	now	van futare parge iem  —EXEC_VIENA/.	Metafalss Note
+infel	n.	love ( Note	"infel yor" means "thank you"): llizz ene infel den layy  —The Heart Speaks	Metafalss Note
+inferiare	adj.	beloved	Rrha ki ra sarrifis mea noes tes inferiare saash  —EXEC_SOL=FAGE/.	Metafalss Note
+ini	v.	initialize, purify	Haaa tie yor ini en nha parge yor ar foul ciel  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	Cult Ciel Note
+innna	n.	inside (of the Soulspace), within one's heart	innna ar hopb syec mea ya ya  —Singing Hill	Cult Ciel Note
+irs	v.	exist	irs jam inferiare yor yehar jyel fusya  —Singing Hill - Harmonics FRELIA	Central Standard Note
+j.d.r.	E.v.	aprehend, capture		Pastalie [Unofficial]
+j.l.j.	E.v.	capture, adhere, take in		New Testament of Pastalie
+j.l.r.	E.v.	calm down, return to one's self		New Testament of Pastalie
+j.w.	E.v.	entrust		New Testament of Pastalie
+j.z.t.	E.v.	execute, invoke	x. harr j.z.t. ouwua giz hymmnos  —METHOD_REPLEKIA/.	New Testament of Pastalie
+jam	adv.	together	irs jam inferiare yor yehar jyel fusya  —Singing Hill - Harmonics FRELIA	Central Standard Note
+jambea	n.	foot, leg	en chess won vinan jambea mea gigeadeth zeeth tie yor  —EXEC_DESPEDIA/.	Central Standard Note
+jass	v.	seek, request, wish for	Wee yea ra rre lyafre famfa en jass anw iasien  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+jastil	v.	Come!, Let's go!		Unknown [Unofficial]
+jefea	adj.	lamenting, grieving		Unknown [Unofficial]
+jenge	n.	enemy, rival, opponent		Cult Ciel Note
+jenhah	n.	disaster, misfortune	jenhah gyas faf morto  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+jouee	n.	God's power	Rrha ki ra echcrra jouee Rrha ki ra chs hymmnos mea  —EXEC_METAFALICA/.	Central Standard Note
+jue	n.	water		Pastalie [Unofficial]
+jyel	E.s. II	loneliness	van yor jyel der polon  —EXEC_VIENA/.	Central Standard Note
+k.f.k.k.	E.v.	sneer, ridiculize, scorn		Pastalie [Unofficial]
+k.r.	E.v.	play, frolic		New Testament of Pastalie
+k.v.n.r.	E.v.	challenge, defy		New Testament of Pastalie
+k.v.r.	E.v.	cover, wrap	x. harr k.v.r. du qejyu  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+kajya	adj.	necessary, needed		New Testament of Pastalie
+kapa	n.	water	fayra en kapa weak en sheak  —EXEC_METAFALICA/.	Cult Ciel Note
+karf	particle	that, these		Unknown [Unofficial]
+keen	v.	shine	Fou yea ra waath ar ciel en hymme mea weel nepo en keen ar sar  —EXEC_PHANTASMAGORIA/.	Central Standard Note
+keenis	n.	radiance	wassee forgandal dauane keenis na nozess  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+keg	n.	branch	ar w.r.l. du cia dn ryewa keg  —METHOD_METAFALICA/.	New Testament of Pastalie
+khal	v.	protect, defend	Was yea erra chs weak en khal anw yeal  —EXEC_VIENA/.	Central Standard Note
+ki	E.s. II	concentration, focus, seriousness	Rrha ki ra hymme PAJA yor getrra en gott wi gyas  —EXEC_PURGER/.#Aurica extracting	Central Standard Note
+kiafa	v.	hear, listen	Presia kiafa sarla mea  —EXEC_HARMONIOUS	Metafalss Note
+kiakkya	noun	friend		Unknown [Unofficial]
+kiala	adjective, noun	gold, golden		Unknown [Unofficial]
+kieghl		(unknown meaning)		
+kierre	n.	instant, moment	Alroetsue kierre iem  —EXEC_HARMONIOUS	Metafalss Note
+kil	v.	kill		Central Standard Note
+knawa	v.	know	Ar knawa yor  —EXEC_SPHILIA/.	Central Standard Note
+kneet	adj.	late, be late, be too late	Ma num ra tictim yorr wis kneet hueaf van yorr zaffur  —EXEC_DESPEDIA/.	Central Standard Note
+koffl	verb	drink		Unknown [Unofficial]
+konla	noun	love		Unknown [Unofficial]
+koora	n.	stream	hymme rol hymmer selena rol koora  —Chanting the Moon ~Tsukikanade~	Central Standard Note
+kouf	n.	sigh	en h.k.t.t nafan du ouwua kouf  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+ks	v.	give a hint	Ma ki ga ks maya yor syec  —Singing Hill	Cult Ciel Note
+kuhle	n.	poison	llizz discest vine den kuhle  —The Heart Speaks	Central Standard Note
+kvvia	n.	regrets, repentance	w.w.j.n.c. syalea en zz kvvia  —METHOD_METAFALICA/.	Unknown [Unofficial]
+kvyeire	n.	end, ending	x. rre vonn papana f.p.n. ut kvyeire qoga iem  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	Unknown [Unofficial]
+kyll	v.	cut, detach	Ween shellan re kyll fwal  —EXEC_SPHILIA/.	Unknown [Unofficial]
+l.k.k.	E.v.	look up at, admire	x. harr l.k.k. maen  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+l.l.n.	E.v.	bless	x. sorr a.u.k. zess l.l.n. anw aje harphe  —METHOD_IMPLANTA/.	New Testament of Pastalie
+l.n.c.a.	E.v.	tie together, connect	l.n.c.a. w.w.j.n.c. syec sphilar  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	New Testament of Pastalie
+la	pre.	*that* (used to emphasize, in front of a vowel sound)	Was yea ra chs hymmnos la glasden yehah  —EXEC_SOL=FAGE/.	Central Standard Note
+lamenza	n.	lament, grief	van fandel gauzewiga der lamenza  —EXEC_HARMONIOUS	Metafalss Note
+lamenzeo	adjective, adverb	borne of laments, borne of grief		Unknown [Unofficial]
+lapo	v.	meet (by chance), rendezvous		Cult Ciel Note
+lasye	n.	boy, young man		Central Standard Note
+lau	Emotion Sound (II)	fear, dread		Unknown [Unofficial]
+lautyca	verb	fall down		Unknown [Unofficial]
+layy	adj.	lie, false, imaginary	llizz ene infel den layy  —The Heart Speaks	Unknown [Unofficial]
+leaff	n.	book, books, picture book	Den na orviclle vis ween leaff  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+leat	v.	play (instrument) (Note	It's very similar to the "singing" meaning of "hymme", but it's used in a much more figurative manner): En hymmne leat mea en ciel  —Singing Hill	Central Standard Note
+lequera	n.	Gooddoer, good person	Fou paks ra chs lequera en chs frawr  —Chanting the Moon ~Tsukikanade~	Cult Ciel Note
+lhasya	verb	connect, tie together		Unknown [Unofficial]
+li	pre.	*that* (used to emphasize, in front of a consonant sound)	Ma num wa nnoini li fhyu  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+linen	v.	talk, recite		Cult Ciel Note
+lir	n.	light		Alpha Note (EOLIA)
+lirle	n.	summer		Cult Ciel Note
+llizz	adv.	possibly, maybe, perhaps	llizz discest vine den kuhle  —The Heart Speaks	Central Standard Note
+lof	n.	place		Cult Ciel Note
+lonfa	n.	soul	presia aterra cremia sos viuy lonfa  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+lornya	noun	honey		Unknown [Unofficial]
+loss	adj.	dead, lost	ides loss bautifal sarla  —EXEC_SPHILIA/.	Unknown [Unofficial]
+lulurnya	noun	joy, happiness		Unknown [Unofficial]
+lurrea	v.	fear	van fandel wis lurrea  —EXEC_HARMONIOUS	Metafalss Note
+lusye	n.	light	wassee anw fane lusye  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Metafalss Note
+lyafre	n.	butterfly	Wee yea ra rre lyafre famfa en jass anw iasien  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+lyrnya	adjective	gentle, peaceful		Unknown [Unofficial]
+lyuma	n.	star, planet (Note	if it has a "LYA" before it, the meaning changes to "Maiden of Mio"): x. rre sarr m.n.g. du tyui lyuma  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+m.a.m.	E.v.	exist		New Testament of Pastalie
+m.f.l.	E.v.	cover, shroud		Pastalie [Unofficial]
+m.n.g.	E.v.	drink, understand, learn	x. rre sarr m.n.g. du tyui lyuma  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+m.r.r.	E.v.	reflect, project	x. sorr m.r.r. du sphaela  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+m.t.y.y.	E.v.	create, give birth to	x. rre m.t.y.y. giz w.s. du giz  —METHOD_REPLEKIA/.	New Testament of Pastalie
+maen	n.	full moon	x. harr l.k.k. maen  —METHOD_REPLEKIA/.	New Testament of Pastalie
+mahin	n.	hand		Central Standard Note
+manaf	n.	life, existence	manaf O  —EXEC_PURGER/.#Aurica extracting	Metafalss Note
+manafaln	n.	reincarnation		Cult Ciel Note
+manafeeze	v.	live		Metafalss Note
+maoh	noun	Maoh, Rhaplanca's partner in Meta Falss mythology		Metafalss Note
+marfo	adjective	beloved, dear		Unknown [Unofficial]
+marta	n./adj.	mother, motherly	Was i ra presia fogabe marta presia fogabe marta  —Eternally Bonded	Metafalss Note
+maun	n.	eyelid	en tarfe tou yos maun  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+maxim	adj./adv.	most, extremely	den vinan fusya omnis dius en fusya maxim  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+maya	n.	magic, supernatural	Ma ki ga ks maya yor syec  —Singing Hill	Cult Ciel Note
+mea	n.	me (object)	Rrha ki ra nha-HYMMNOS1x01 >> pat mea en xest SOL=MARTA > A2  —EXEC_SOL=FAGE/.	Central Standard Note
+mean	n.	us (object)		Central Standard Note
+meaql	adjective	gentle		Unknown [Unofficial]
+melenas	v.	love, very fond of (Note	Used to talk about the most irreplaceable person to the speaker): Rrha yea ra melenas yor syec syec  —EXEC_DESPEDIA/.	Cult Ciel Note
+melifan	n.	history	fandel zadius hierle melifan iem endia  —EXEC_HARMONIOUS	Metafalss Note
+melvaz	n.	bride		Cult Ciel Note
+memora	n.	memory	Synk sor al memora en knawa Ar tonelico  —EXEC_LINKER	Central Standard Note
+meo	n.	ideal, dream		Central Standard Note
+merfa	adj./n.	pure, pure wishes	h.k.t.t merfa tie yor en h.m.m.r. METAFALICA  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+merra	n.	us (subject)		Central Standard Note
+meryu	n.	memory (Note	if it's preceeded by an "A" emotion vowel, then its meaning is changed to "dream")	New Testament of Pastalie
+meso	v.	scatter, leave untidy	Rrha wol ra eta meso faura anw dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+messe	v.	report, transmit, convey	Presia messe noce yor tes mea  —EXEC_SPHILIA/.	Central Standard Note
+milra	noun	fragrance		Unknown [Unofficial]
+mirie	n.	warmth	x. rre s.n.k.k. mirie ag h.m.m.r. eje  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+morto	n./v.	death, die	jenhah gyas faf morto  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+murfan	v.	feel, think	Hierle faura murfan anw yeeel ciel  —EXEC_VIENA/.	Metafalss Note
+murfanare	n.	feeling, thought	Was yea ra murfanare  —EXEC_HIBERNATION/.	Metafalss Note
+mutrk	n.	warmth	x. sorr a.u.k. mutrk rhaplanca en Implanta  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+n.d.n.	E.v.	lay, put down, hide		Pastalie [Unofficial]
+n.e.g.	Emotion Verb	pray		Pastalie [Unofficial]
+n.m.l.	E.v.	dye, color	x. rre cia n.m.l. ut talam ag f.r.l. du tussu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+n.t.n.	E.v.	continue, go on	x. harr n.t.n. hymmnos  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+na	adv.	no, not, negation	Hymmnos oz faura pomb na omnis den accrroad  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+naave	conj.	because ~		New Testament of Pastalie
+nafa	adj.	easy, gentle	v.s.k. sarr arhou nafa infel  —EXEC_with.METHOD_METAFALICA/.	New Testament of Pastalie
+nafan	adj.	kind, tender	x. rre h.k.t.t nafan ouwua siann arhou  —METHOD_REPLEKIA/.	New Testament of Pastalie
+naflansee	n.	happiness, good fortune		New Testament of Pastalie
+naja	v.	escape, retreat, disappear, leave	Rrha wol ra stel naja getrra faura anw dornpica  —EXEC_HIBERNATION/.	Cult Ciel Note
+near	n.	life	Was yea ra waath near en hymme RE=NATION mea  —EXEC_RE=NATION/.	Central Standard Note
+neath	adjective	red hot, scorching		Unknown [Unofficial]
+nedle	v.	need	Was au ga whai pauwel ferda enter whou na nedle sor  —EXEC_CHRONICLE KEY	Alpha Note (EOLIA)
+neee	v.	call out		Central Standard Note
+neen	adjective, adverb	too much, excessive, beyond reason		Cult Ciel Note
+neia	v.	approach, draw near	Was paks ra neia bautifal faura tes dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+nene	adj.	not understand		Cult Ciel Note
+nepo	v.	moisten	Fou yea ra waath ar ciel en hymme mea weel nepo en keen ar sar  —EXEC_PHANTASMAGORIA/.	Central Standard Note
+netvear	v.	give up, abandon, be discouraged		Central Standard Note
+nezz	n.	nose		Central Standard Note
+nha	v.	let in, summon (Note	It isn't used to refer to a physical phenomenon, rather, it's for situations were magic is being used): Haaa tie yor ini en nha parge yor ar foul ciel  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	Cult Ciel Note
+nhaf	adj.	surprised, dazed	Harr ar vit plina has nhaf  —EXEC_METAFALICA/.	Unknown [Unofficial]
+nille	v.	resemble, resemblance, be alike	Yorr nille mea  —EXEC_SPHILIA/.	Central Standard Note
+nnoini	adv.	first (Note	Combination of "Nnoi" (1) and "Ini" (Initialize)): Ma num wa nnoini li fhyu  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+noce	n.	natural, spontaneous	Presia messe noce yor tes mea  —EXEC_SPHILIA/.	Cult Ciel Note
+noes	n.	oneself	was ki ra yorra sarrifis anw omnis noes Wassee  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+noglle	adj./n.	black	vinan yor noglle yor  —EXEC_SPHILIA/.	Central Standard Note
+nooge	v.	sleep		Cult Ciel Note
+nor	pre.	or, either	infel nor khule hopb  —The Heart Speaks	Unknown [Unofficial]
+nosaash	n.	goddess		Cult Ciel Note
+nozess	v.	lose, get rid of, waste	wassee forgandal dauane keenis na nozess  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+nuih	n.	night	Wee yea ra wael nuih bexm xl yor yaha tes mea  —EXEC_VIENA/.	Central Standard Note
+num	E.s. II	nothing	yehar hyear Rrha num ra hymme cest mea  —EXEC_METAFALICA/.	Central Standard Note
+nx	n.	next		Central Standard Note
+nyamo	noun, verb	meowing		Unknown [Unofficial]
+nyamonyas	noun	friend		Unknown [Unofficial]
+nyanyas	adj.	cute, lovely, darling		Unknown [Unofficial]
+nyasri	E.s. II	sad	Was nyasri ga hieg yorra guaysu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+nyasyamorina	adjective	very happy		Unknown [Unofficial]
+ocurp	noun	river mouth		Unknown [Unofficial]
+ogbl	verb	coil into		Unknown [Unofficial]
+olo	n.	night		New Testament of Pastalie
+omness	n.	life, existence	x. rre omness a.u.k. zodaw ess rudje noglle doodu  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	Unknown [Unofficial]
+omnis	adj.	everything (direct object)	en sorr quen art ftt omnis crudea  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Metafalss Note
+oriye	n.	ear		Central Standard Note
+orn	adjective	only, sole, unique		Unknown [Unofficial]
+orviclle	n.	problem, question, obstacle (Note	na orviclle can mean "no problem" or "it's okay").: Den na orviclle vis ween leaff  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+oter	pre.	out from ~ (note	only used in Hymmnos Spells)	Unknown [Unofficial]
+oucc	adv.	together		New Testament of Pastalie
+oure	pre.	more than anything	en melenas oure en yanwe oure sor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+ousye	v.	launch an attack, fall onto	fatere tes pauwel chs deleir en ousye yor  —EXEC_CHRONICLE KEY	Alpha Note (EOLIA)
+ouvyu	n.	ruins	vega ouvyu giz sphaela  —METHOD_REPLEKIA/.	New Testament of Pastalie
+ouwua	adj.	a lot, many, much	x. harr j.z.t. ouwua giz hymmnos  —METHOD_REPLEKIA/.	New Testament of Pastalie
+oz	pre.	of (possessive article) (Note	Equivalent to the English "of", though depending on context, it isn't always necessary): Harr re heighte der gauzewiga oz ciel  —EXEC_METAFALICA/.	Central Standard Note
+p.s.w.t.	E.v.	seize, adquire		New Testament of Pastalie
+pagle	v.	talk, speak with	herra pagle harr riomo hueaf  —EXEC_METAFALICA/.	Central Standard Note
+pak	v.	open (the future)	Was yea ra wael yor pak en ini pat yor  —Chanting the Moon ~Tsukikanade~	Central Standard Note
+paks	E.s. II	excitement, nervouseness	Was paks ra kiafa hynne mea  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+pakz	v.	divide, separate		Cult Ciel Note
+papana	n.	rain	sash fwillra ween papana  —EXEC_SPHILIA/.	Cult Ciel Note
+papas	n.	belief		Unknown [Unofficial]
+papulipua	verb	worry, bother		Unknown [Unofficial]
+parce	n.	evidence, proof		Central Standard Note
+parge	v.	to cut loose (in the case of magic) (Note	It isn't used to refer to a physical phenomenon, rather, it's for situations were magic is being used): Wee ki ra parge yor ar ides  —EXEC_LINKER	Cult Ciel Note
+parith	adj./n.	honest, sincere		Cult Ciel Note
+pat	v.	release, set free	Was yea ra wael yor pak en ini pat yor  —Chanting the Moon ~Tsukikanade~	Cult Ciel Note
+paul	v.	feel, sense	walasye near enesse mea paul li ciel  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+pauwee	n.	child of power		Metafalss Note
+pauwel	n.	power	Was yea ra pauwel en wael yor  —EXEC_SPHILIA/.	Metafalss Note
+pawr	noun	power, strength		Unknown [Unofficial]
+pecee	v.	hatch (egg), incubate		Central Standard Note
+phira	n.	seed, kind	Rhaplanca selena phira  —EXEC_METAFALICA/.	Metafalss Note
+phiz	noun	body		Cult Ciel Note
+phyue	n.	congratulations		Central Standard Note
+pic	v.	realize, take aback		Central Standard Note
+pikca	n.	fruit, nut		New Testament of Pastalie
+pilt	v.	realize		Cult Ciel Note
+pipel	adj./n.	pipe, cylindrical		Central Standard Note
+pipit	adj.	only, merely, a little		New Testament of Pastalie
+pirtue	n.	spirit, ghost		Metafalss Note
+pitod	adv.	beside, together	Vinan wis pitod re beja  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+plina	n.	greenery (plants) (Note	Used only for talking about green plants): rivire plina fayra clalliss sphilar  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+poe	n.	seed, kind	x. rre rhaplanca t.n.m.n. poe ess gkgul doodu  —METHOD_METAFALICA/.	New Testament of Pastalie
+polon	n.	loneliness, solitude	van yor jyel der polon  —EXEC_VIENA/.	Cult Ciel Note
+pomb	v.	give birth, create	Hymmnos oz faura pomb na omnis den accrroad  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+pono	n.	egg		Central Standard Note
+pop	n.	bubble		New Testament of Pastalie
+porter	v.	wear (clothes)		Central Standard Note
+prasrity	n./v.	prosperity, prosper	Was yea ra prasrity  —EXEC_HIBERNATION/.	Central Standard Note
+presia	adv.	may it be so, would you please do ~, please ~	presia aterra cremia sos viuy lonfa  —EXEC_CHRONICLE KEY	Metafalss Note
+prooth	n.	blood		Cult Ciel Note
+pruna	adj.	funny		Unknown [Unofficial]
+ptrapica	n.	treasure		Cult Ciel Note
+ptrapile	n.	autumn		Cult Ciel Note
+pupe	n.	tear, teardrop		New Testament of Pastalie
+pyuf	verb	head for, head to		Unknown [Unofficial]
+q.g.s.	E.v.	end, finish		Pastalie [Unofficial]
+q.l.s.	E.v.	shake tremendously	x. rre h.m.m.r. byui q.l.s. du sechel  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+qejyu	n.	people, humanity (Notes	Preceeded by an "E" emotion vowel, the meaning changes to "lover" and "wife/husband". Preceeded by an "YE" emotion vowel, the meaning changes to "family, relatives, friends". Preceeded by an "LYE" emotion vowel, the meaning changes to "the grand family of humankind".): x. rre qejyu ssvid hiralg ag xevxl  —METHOD_METAFALICA/.	New Testament of Pastalie
+qoga	n.	end, ending	x. rre vonn papana f.p.n. ut kvyeire qoga iem  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	Unknown [Unofficial]
+qraffa	n.	leaf	x. rre sefanl s.n.k.k. aje qraffa  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+quals	verb	revive, resurrect		Unknown [Unofficial]
+quel	E.s. II	earnestness, desperation	Was quel erra chs lusye eazas  —EXEC_VIENA/.	Central Standard Note
+quen	v.	give birth, create	en sorr quen art ftt omnis crudea  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+quesa	n.	thing that shakes the earth, thunder, lightning	x. rre h.m.m.r. a.u.k. zess quesa  —METHOD_REPLEKIA/.	Central Standard Note
+quivale	n.	winter		Cult Ciel Note
+quive	n/v.	silence, quietness	ciel ar celle weak ar quive  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+quowjaz	n.	justice, righteousness		Cult Ciel Note
+r.f.m.	E.v.	see, watch		New Testament of Pastalie
+r.f.r.m.	E.v.	know, recognize		New Testament of Pastalie
+r.l.t.y.	E.v.	revive, resurrect, rebirth	x. rre mao y.z.t. en y.z.t. za rre arhou r.l.t.y. ess qejyu  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+r.w.	E.v.	help, rescue		New Testament of Pastalie
+ra	E.s. III	I want this to last	Was yea ra chs ieeya fhyu en xest eazas yanyaue yor xest 1x1101101001100110111000 >> syec mea  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+race	n./v.	(wreathe a) necklace, to wreath		Central Standard Note
+raklya	v.	cry, weep	art crudea en raklya art idesy memora  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+rana	v.	run, dash	chs bister en rana anw dor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+rannef	n.	reward		Central Standard Note
+rasse	v.	to yell	rasse rasse rasse rasse rasse rasse en rana  —EXEC_PHANTASMAGORIA/.	Central Standard Note
+raudl	n.	form, shape		New Testament of Pastalie
+rawah	n.	flower		New Testament of Pastalie
+re	pre	(passive verb prefix)	Whai yorr re heighte so  —EXEC_SPHILIA/.	Central Standard Note
+reen	v.	hear, listen	Wee yea ra reen harton yos warma hynne reen yos warma hynne  —Eternally Bonded	Central Standard Note
+repoear	n.	thanks, gratitude		Central Standard Note
+reta	pre.	Please...		New Testament of Pastalie
+rete	n./v.	forget, forgetfulness, oblivion	Harr paul whai herra rete ieeya so  —EXEC_METAFALICA/.	Cult Ciel Note
+revatail	n.	Reyvateil (an artificial life form)	Was ki ra revatail whou Metafalica crushue Mule  —EXEC_HARMONIOUS	Metafalss Note
+reveris	n.	dream demon, nightmare, delusion	Wee i ga vit anw reveris enrer  —EXEC_VIENA/.	Central Standard Note
+revm	n.	dream	Sos yor yanje revm na endia revm yehah revm  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+ridalnae	adj.	irreplaceable		Metafalss Note
+rifaiah	adjective, adverb	borne of revival		Unknown [Unofficial]
+rifaien	v.	resurrect, revive	Presia metafalica rifaien tou yor sphilar  —EXEC_HARMONIOUS	Metafalss Note
+rinc	v.	synchronize, feel the same	Rrha yea ra rinc en echrra yor rre walasye jyel got ieeya  —Singing Hill - Harmonics FRELIA	Unknown [Unofficial]
+riomo	v.	to give a, to present a (thing, condition, state)	herra pagle harr riomo hueaf  —EXEC_METAFALICA/.	Cluster Note
+rippllys	n./v.	reply, answer	whai yorr na rippllys mea  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+riura	noun	face, facial expression		Unknown [Unofficial]
+rivire	n.	river	rivire plina fayra clalliss sphilar  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+riya	n.	sincerity		Unknown [Unofficial]
+rol	conj.	as if, like	Rrha yea ra dsier yor rol clemezen  —EXEC_DESPEDIA/.	Central Standard Note
+roon	noun	mansion		Unknown [Unofficial]
+rooshellan	noun	cradle		Unknown [Unofficial]
+rosa	n.	rose, rose petal	rudje en rudje rosa  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+rre	pre	(subject marker)	x. rre exali sarr w.r.m. anw sphaela  —METHOD_IMPLANTA/.	Central Standard Note
+rudje	adj./n.	red, scarlet, crimson	rudje en rudje rosa  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+ruinie	v.	destroy	Rrha yea ra ruinie omnis yor  —EXEC_DESPEDIA/.	Central Standard Note
+ruinien	n.	destruction	Hyear Ma num ra gyusya yorr ee Dia oz ruinien  —EXEC_DESPEDIA/.	Unknown [Unofficial]
+rum	n.	flame	Presia yehar zadius rum ferda yor der sarla mea  —EXEC_HARMONIOUS	Unknown [Unofficial]
+ryewa	adj.	overgrown	ar w.r.l. du cia dn ryewa keg  —METHOD_METAFALICA/.	New Testament of Pastalie
+ryushe	verb	depart on a journey		Unknown [Unofficial]
+ryusse	n.	journey, trip		Cult Ciel Note
+s.l.	E.v.	believe, trust	x. rre s.l. sphaela arhou  —METHOD_REPLEKIA/.	New Testament of Pastalie
+s.l.y.	E.v.	give, award, convey	sev x. rre yorr s.l.y. nafan mea  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+s.n.k.k.	E.v.	bud (plant)	x. rre s.n.k.k. mirie ag h.m.m.r. eje  —METHOD_REPLEKIA/.	New Testament of Pastalie
+s.s.w.	E.v.	say, speak, inform		New Testament of Pastalie
+sa	n.	karma		Central Standard Note
+saash	n.	God, gods	Rrha ki ra sarrifis mea noes tes inferiare saash  —EXEC_SOL=FAGE/.	Central Standard Note
+sabl	n.	sand	ween sabl den fandel sabl  —EXEC_METAFALICA/.	Central Standard Note
+sacra	n.	blood	der sacra rol fau ween leaff  —EXEC_HARMONIOUS_FUSION/.	Unknown [Unofficial]
+sallogna	v.	lie down, stretch, rest		Central Standard Note
+sanctum	n.	ark	spiritum sanctum  —EXEC_METAFALICA/.	Central Standard Note
+sar	n.	sky (Note	Word crafted by Shurelia for Phantasmagoria, because of the problem that represented the use of "ciel" given its two meanings).: Wee yea ra enne ar sar Wee yea ra enne ar dor  —EXEC_PHANTASMAGORIA/.	Alpha Note (EOLIA)
+sara	n.	grass	sara dorn fhyu hymma  —Singing Hill	Central Standard Note
+sarla	n.	song	fwilla selena yasra sarla  —Colors~SEN~Will This Flower Bloom?	Metafalss Note
+sarr	n.	sunlight, radiance	v.s.k. sarr arhou nafa infel  —EXEC_with.METHOD_METAFALICA/.	New Testament of Pastalie
+sarrifis	v.	offer (a sacrifice)	was ki ra yorra sarrifis anw omnis noes Wassee  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+sarsa	n.	rain		New Testament of Pastalie
+sash	v.	scatter	sash fwillra ween papana  —EXEC_SPHILIA/.	Unknown [Unofficial]
+sasye	n.	girl, young woman	Ides rre sasye Rhaplanca  —EXEC_METAFALICA/.	Central Standard Note
+savath	v.	surge, gush out		Cult Ciel Note
+sechel	n.	city	x. rre h.m.m.r. byui q.l.s. du sechel  —METHOD_REPLEKIA/.	New Testament of Pastalie
+sefanl	n.	forest	ag t.n. za v.t. dn balduo sefanl  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+selena	v.	play (a instrument)	fwilla selena yasra sarla  —Colors~SEN~Will This Flower Bloom?	Metafalss Note
+sephaje	n.	creation of the world		Unknown [Unofficial]
+sev	conj.	at the time of ~, when ~	sev x. rre yorr s.l.y. nafan mea  —METHOD_METAFALICA/.	New Testament of Pastalie
+sguela	adjective	precious, important		Unknown [Unofficial]
+shazra	n.	thorny vine, thorn, thorny shrub (Note	Used only for plants that have thorns): Rrha paks ra chs shazra cause yor  —EXEC_DESPEDIA/.	Central Standard Note
+sheak	n.	sun	fayra en kapa weak en sheak  —EXEC_METAFALICA/.	Cult Ciel Note
+sheaken	n.	left		Unknown [Unofficial]
+shefra	n.	creation of the world		Unknown [Unofficial]
+shell	n.	(inside a) shell	Yorr ween shell  —EXEC_SPHILIA/.	Unknown [Unofficial]
+shellan	n.	birdcage, cage, basket, pen	ween shellan yorra accroad mea sarla oz enne  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+shen	n.	light	x. sorr d.r.s.n. sarla vl shen  —METHOD_METAFALICA/.	Central Standard Note
+shyun	adjective, noun	sadness, grief		Unknown [Unofficial]
+sial	adj.	a bit, a little	Was ki ra na fogabe anw sial gyaje  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+siance	n.	holy land, sanctuary, utopia		New Testament of Pastalie
+siann	n.	light (Note	if it's preceeded by a "LYA" emotion vowel, its meaning changes to "Maiden of Homura"): x. harr t.h.s. siann  —METHOD_REPLEKIA/.	New Testament of Pastalie
+sielp	n.	brook, murmur	chs hasyu en zassyen der sielp  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+sik	v.	leave, move away from		Cult Ciel Note
+siss	v.	erase, put out, eliminate	na siss cupla  —EXEC_SPHILIA/.	Unknown [Unofficial]
+skit	v.	promise		Cult Ciel Note
+slep	v.	sleep	Ma num ra slep faura etealune na dauan  —EXEC_HIBERNATION/.	Central Standard Note
+slepir	v.	put to sleep, stop (an activity)	Rrha num ra slepir etealune na near na morto ciel  —EXEC_HIBERNATION/.	Metafalss Note
+so	conj.	in such a way, so much	Yorr faf so  —EXEC_SPHILIA/.	Unknown [Unofficial]
+soare	n.	song, prayer	Wee ki ra araus tes soare en giue mea iem  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+sol	v.	(daylight) shines, shine down brilliantly (Note	However, the phrase "Sol Ciel" refers to the region of the first Ar tonelico tower, and was to be used as the name of the world. It's because there was already a phrase in Central Standard Note for this world, "Ar Ciel", that "Sol Ciel" ended becoming only the name of the region of the first tower. That region owes its name to the Ancient Metafalss Note.): Was yea erra chs sheak en sol anw yeal  —EXEC_VIENA/.	Metafalss Note
+sonwe	v.	sing	Was yea ra sonwe infel en yor  —Reisha's Lullaby	Metafalss Note
+sor	pro.	that	Synk sor al memora en knawa Ar tonelico  —EXEC_LINKER	Central Standard Note
+sorr it	conj.	it's that way		
+sorra it	conj.	in those ways,		
+sos	conj.	for, because of, for the sake of	Wee ki ra chs Chronicle Key en grandee sos dius yor  —EXEC_CHRONICLE KEY	Central Standard Note
+sosar	n.	magic, magical power (Note	Even if the magic that manifests through Hymmnos is called "maya", actually the spells have a much more specialized image. "maya" has a nuance of miracles made by the power of the gods, while sosar... its more similar to standard sorcery).: Was yea ra enne en crushue gyen METAFALICA ee sosar  —Singing Hill - Harmonics FRELIA	Central Standard Note
+sphaela	n.	world	x. rre exali sarr w.r.m. anw sphaela  —METHOD_IMPLANTA/.	New Testament of Pastalie
+sphilar	n.	mind, spirit	l.n.c.a. w.w.j.n.c. syec sphilar  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	Metafalss Note
+spiritum	adj./n.	soul, of the soul	Wee yea ra hymme spiritum  —Singing Hill - Harmonics FRELIA	Central Standard Note
+spitze	n.	freedom		Central Standard Note
+ssvid	v.	outlive	x. rre qejyu ssvid hiralg ag xevxl  —METHOD_METAFALICA/.	Unknown [Unofficial]
+stel	v.	take, steal, snatch away (Note	Used when one takes something from other person by force. Used usually by the one that lost the stolen thing): Rrha wol ra stel naja getrra faura anw dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+stelled	v.	compete, struggle for (Note	Used for fierce battles or competitions. Used usually by the loser.)	Central Standard Note
+suwant	v.	save, rescue, help	Was paks ga suwant mea irs here an yor  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+swant	v.	help, save, rescue		Central
+syalea	n.	decision, resolve	w.w.j.n.c. syalea en zz kvvia  —METHOD_METAFALICA/.	Unknown [Unofficial]
+syana	noun, verb	echo, resound		Unknown [Unofficial]
+syast	v.	congregate, gather	Wee yea ra hymme hymmnos harmon en syast et wi powel  —Singing Hill - Harmonics FRELIA	Central Standard Note
+syec	n.	abyss, depths (Note	Not used to refer to a physical abyss, but rather to a mental one. This word is usually used to represent the Soulspace).: yehar werllra ween syec mea  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+syezo	noun	soup		Unknown [Unofficial]
+synk	v.	overlap, pile up	Was yea ra Rrha synk sphilar yor en mea exec hymme METAFALICA  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+syunaht	verb	dissolve, scatter, vanish		Cult Ciel Note
+t.h.s.	E.v.	go outside	x. harr t.h.s. siann  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+t.k.d.	v.	reach	y.z.t. za rre vega f.s. t.k.d. ag zz t.k.d. tie hartes yor  —METHOD_METAFALICA/.	New Testament of Pastalie
+t.n.	v.	stop, end	ag t.n. za v.t. dn balduo sefanl  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+t.n.m.n.	v.	scatter (seeds), (to) plant	x. rre rhaplanca t.n.m.n. poe ess gkgul doodu  —METHOD_METAFALICA/.	New Testament of Pastalie
+t.r.m.	v.	develop, make bloom, realize	t.r.m.  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	New Testament of Pastalie
+tafane	adj.	glittering, sparkling	x. harr m.r.r. aje tafane sphaela  —METHOD_REPLEKIA/.	Pastalie [Unofficial]
+talam	adj.	dawn's color	x. rre cia n.m.l. ut talam ag f.r.l. du tussu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+tanta	v.	dance		Central Standard Note
+tapa	n.	water		New Testament of Pastalie
+tarfe	v.	stop, halt	en tarfe tou yos maun  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+targue	conj.	even if ~ is the case	targue rre qejyu z.z.x.  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+tasyue	v.	offer, sacrifice	Rrha ki ra tasyue murfanare sos saash  —EXEC_SOL=FAGE/.	Metafalss Note
+tatakaria	noun	existences, beings, lives		Unknown [Unofficial]
+tek	v.	Go	Rrha ki ra tek wim tes yor  —EXEC_LINKER	Central Standard Note
+tes	conj.	at ~, to ~	Was paks ra neia bautifal faura tes dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+teyys	v.	halt, remain, exist, stay (Note	Equivalent to the English "stay"): Ma num ra teyys ween syec oz wase en noglle guatrz ee  —EXEC_DESPEDIA/.	Central Standard Note
+ther	conj.	that		Central Standard Note
+tictim	v.	control, operate, do as one pleases	Ma num ra tictim yorr wis kneet hueaf van yorr zaffur  —EXEC_DESPEDIA/.	Central Standard Note
+tie	conj.	in regards to... (specifying a subject)	Haaa tie yor ini en nha parge yor ar foul ciel  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	New Testament of Pastalie
+tienar	adverb	without stopping, without end		Unknown [Unofficial]
+tilanta	verb	flow into		Unknown [Unofficial]
+tim	n.	time	Whalt tim 0 chs Diasee  —EXEC_LINKER	Unknown [Unofficial]
+titia	n.	good will, innate goodness of man	x. rre w.r.m. maen a.u.k. zess titia  —METHOD_REPLEKIA/.	New Testament of Pastalie
+titil	n.	small things, accesories	titil yehah presia yorr wis yehah presia yanje  —EXEC_HARMONIOUS_FUSION/.	Cult Ciel Note
+titilia	adj.	small, little, tiny	Presia chanti ee tes titilia manaf hyear  —Colors~SEN~Will This Flower Bloom?	Cult Ciel Note
+toe	adjective, verb	rise above, stand over		Unknown [Unofficial]
+tonelico	n.	divine tree, (possible alternate meaning	tower): Synk sor al memora en knawa Ar tonelico  —EXEC_LINKER	Unknown [Unofficial]
+tou	conj.	at ~, in ~, to ~	Presia metafalica rifaien tou yor sphilar  —EXEC_HARMONIOUS	Central Standard Note
+touwaka	E.s. II	wishful, hiding wishes in my heart	Nnoi crown touwaka arsye yor  —The Heart Speaks	Central Standard Note
+trina	verb	notice, become aware		Unknown [Unofficial]
+ttu	conj.	in order to do ~		New Testament of Pastalie
+ture	n.	bonds	Ridalnae ture inferiare manaf  —EXEC_HARMONIOUS	Unknown [Unofficial]
+tussu	n.	change	x. rre cia n.m.l. ut talam ag f.r.l. du tussu  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+tyui	adj.	Small, little, tiny	x. rre sarr m.n.g. du tyui lyuma  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+tyuss	adj.	tender, kind	y.y. en tyuss vl omness  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+ugi	v.	decide	Den crown ugi arsye mea  —The Heart Speaks	Cult Ciel Note
+uje	adj.	cruel, evil		Unknown [Unofficial]
+ujes	n.	ill will	x. sorr m.r.r. du daedu ag ujes  —METHOD_REPLEKIA/.	New Testament of Pastalie
+unloee	v.	prostrate before		Central Standard Note
+urgn	n.	grief, lamentation	x. rre urgn zz t.k.d. ut glansee  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+urr	v.	(something unseen) appears, manifests, incarnates	yehar hyear Rrha num ra urr innna mea  —EXEC_METAFALICA/.	Central Standard Note
+ut	conj.	at ~, to ~ (Note	Equivalent to the English "to"): x. harr n.t.n. hymmnos ut ouvyu  —METHOD_REPLEKIA/.	New Testament of Pastalie
+uteu	v.	doze off	was yea ra wael yorr uteu enw fernia  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Cult Ciel Note
+v.a.	v.	produce, craft		New Testament of Pastalie
+v.s.k.	v.	sense physically, feel, experience	x. harr v.s.k. dazua  —METHOD_REPLEKIA/.	New Testament of Pastalie
+v.t.	v.	live	ag t.n. za v.t. dn balduo sefanl  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	New Testament of Pastalie
+vaffa	verb	clear away, sweep away		Unknown [Unofficial]
+vale	noun	bed		Unknown [Unofficial]
+valwa	v.	purify	Was yea ra sonwe sos yor en valwa anw ciel  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+vamue		(unknown meaning)		
+van	conj.	even if ~, even should ~ happen	van fandel wis lurrea  —EXEC_HARMONIOUS	Metafalss Note
+varda	n.	big tree	x. rre poe h.w.s.s. ut varda  —METHOD_METAFALICA/.	Metafalss Note
+vega	n.	here, this	vega ouvyu giz sphaela  —METHOD_REPLEKIA/.	New Testament of Pastalie
+vege	n.	there, that	x. rre vege dgal a.u.k. zz papana  —METHOD_METAFALICA/.	New Testament of Pastalie
+vianchiel	n./adj.	pure, undefiled, clean, beautiful	cest yor vianchiel ween ganna shell  —EXEC_SPHILIA/.	Metafalss Note
+viega	n.	blade, sword	Van fandel viega heighte mea  —EXEC_HARMONIOUS	Metafalss Note
+vigiga	adjective, noun	cold		Unknown [Unofficial]
+vinan	n./adj.	white	Den here irs ar vinan frawr ween titilia shellan  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+vine	n.	alcohol, liquor, wine (Note	general pronoun for alcoholic beverages): llizz discest vine den kuhle  —The Heart Speaks	Central Standard Note
+viss	v.	read, read between the lines		Central Standard Note
+vit	v.	see, watch	Wee i ga vit anw reveris enrer  —EXEC_VIENA/.	Cult Ciel Note
+viuy	adj.	darkened	presia aterra cremia sos viuy lonfa  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+vl	conj.	since, from, in	y.y. en tyuss vl omness  —METHOD_METAFALICA/.	Unknown [Unofficial]
+vonn	n./adj.	dark, darkness	x. rre vonn papana f.p.n. ut kvyeire qoga iem  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	Central Standard Note
+w.f.	v.	want to do ~		New Testament of Pastalie
+w.h.h.	v.	feel, sense		New Testament of Pastalie
+w.n.s.	v.	visit, echo	w.n.s. rhaplanca ween fandel walasye  —EXEC_with.METHOD_METAFALICA/.	New Testament of Pastalie
+w.r.l.	v.	aim at, have an eye on	ar w.r.l. du cia dn ryewa keg  —METHOD_METAFALICA/.	New Testament of Pastalie
+w.r.m.	v.	shine on, illuminate	x. rre w.r.m. maen a.u.k. zess titia  —METHOD_REPLEKIA/.	New Testament of Pastalie
+w.s.	v.	give	x. rre m.t.y.y. giz w.s. du giz  —METHOD_REPLEKIA/.	New Testament of Pastalie
+w.s.s.	v.	praise		Pastalie [Unofficial]
+w.w.j.n.c.	v.	resound, sympathize	w.w.j.n.c. yor en m.t.y.y. hymmnos ut eje  —METHOD_METAFALICA/.	New Testament of Pastalie
+wa	E.S.III	it doesn't matter - I will accept things the way they are now	Ma num wa nnoini li fhyu  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+waa	E.S.II	happy		Metafalss Note
+waath	v.	revive, rebirth	Fou yea ra waath ar ciel en hymme mea weel nepo en keen ar sar  —EXEC_PHANTASMAGORIA/.	Central Standard Note
+waats	adj.	important		Central Standard Note
+wael	n./v.	joy, delight	Was yea ra pauwel en wael yor  —EXEC_SPHILIA/.	Central Standard Note
+walaen	n.	(human) life		Cult Ciel Note
+walaka	v.	walk		Central Standard Note
+walasye	n.	human, people	Rrha yea ra rinc en echrra yor rre walasye jyel got ieeya  —Singing Hill - Harmonics FRELIA	Cult Ciel Note
+walphish	n.	mermaid, merman (Note	A god/dess that used to live in the oceans during the First Era)	Cult Ciel Note
+warce	v./n.	bless(ing), celebration		Central Standard Note
+ware	conj.	during ~, in the middle of ~		Central Standard Note
+warma	adj.	warm	Wee yea ra reen harton yos warma hynne reen yos warma hynne  —Eternally Bonded	Central Standard Note
+wart	n.	word	Was yea ra frreie yor wart en chs manaf an yor  —EXEC_LINKER	Central Standard Note
+wasara	adj./n.	abundant, abundance	Wee ki ra chs wasara dor en xest eazas yanyaue yor xest 1x1101101001100110111000 >> syec mea  —EXEC_with.METHOD_METAFALICA/.	Central Standard Note
+wase	adj./n.	strong, intense	Ma num ra teyys ween syec oz wase en noglle guatrz ee  —EXEC_DESPEDIA/.	Cult Ciel Note
+wassa	n.	festival, feast	Rrha ki ga gran wael wassa  —EXEC_SOL=FAGE/.	Cult Ciel Note
+wassee	v.	praise	wassee anw fane lusye  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Unknown [Unofficial]
+watt	v.	surprise, scare		Cult Ciel Note
+waze	conj.	too much	Rrha yea ra infel yor waze waze  —EXEC_DESPEDIA/.	Unknown [Unofficial]
+we	conj.	even more than ~		Central Standard Note
+weak	n.	moon	fayra en kapa weak en sheak  —EXEC_METAFALICA/.	Central Standard Note
+weaken	n.	right		Unknown [Unofficial]
+weal	adj./E. s. II	happy, glad	weal acra yorr chanti mea  —EXEC_HARMONIOUS_FUSION/.	Unknown [Unofficial]
+wearequewie	v.	wish, desire, pray, request for, hope for		Metafalss Note
+weel	v.	Come true!, Be realized!	Fou yea ra waath ar ciel en hymme mea weel nepo en keen ar sar  —EXEC_PHANTASMAGORIA/.	Central Standard Note
+ween	conj.	inside of ~, in ~ (particle to indicate current condition) (Note	Equivalent to the English "in", though it's not always necessary, depending on the context): ween sabl den fandel sabl  —EXEC_METAFALICA/.	Central Standard Note
+wefa	adj.	warm, mild	x. rre govan en wefa sarla f.w.r.n. du dje  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+werllra	n.	tear, drop	yehar werllra ween syec mea  —Colors~SEN~Will This Flower Bloom?	Metafalss Note
+werlwe	v.	cry, shed tears	Faura werlwe titilia en sonwe sos marta  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+whai	conj.	why	Hyear whai yorra vit rol hierle  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+whalt	conj.	what		Unknown [Unofficial]
+wharn	n.	arm	elle nnoi na haf yasra wharn  —EXEC_SPHILIA/.	Central Standard Note
+whou	conj.	who, person who ~	Was ki ra revatail whou Metafalica crushue Mule  —EXEC_HARMONIOUS	Central Standard Note
+wi	conj.	that, the one there	Wee yea ra hymme hymmnos harmon en syast et wi powel  —Singing Hill - Harmonics FRELIA	Central Standard Note
+wiaa		(unknown meaning)		
+wiene	n.	melody, tone, timbre	Wee ki ra selena anw yasra wiene  —EXEC_CHRONICLE KEY	Unknown [Unofficial]
+willie	adj.	weak, transient	willie en pitod re heighte  —Colors~SEN~Will This Flower Bloom?	Central Standard Note
+wim	n.	girl, daughter	Rrha ki ra tek wim tes yor  —EXEC_LINKER	Central Standard Note
+windiling	n.	spirit of the wind		Unknown [Unofficial]
+wirtamarls	adjective, noun	tranquil, tranquility		Unknown [Unofficial]
+wis	v.	be, is	Faura sonwe presia yorr wis yehah  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+wol	E.S.II	fervor, rush	Rrha wol ra eta meso faura anw dornpica  —EXEC_HIBERNATION/.	Central Standard Note
+won	conj.	above (on the surface) of ~ (particle to indicate current condition) (Note	Equivalent to the English "on"): Hyear Ma num ra gyusya yorr dewee won clamour yor  —EXEC_DESPEDIA/.	Central Standard Note
+x.	E.v.	(subject marker)	x. rre omness a.u.k. zodaw ess rudje noglle doodu  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	New Testament of Pastalie
+x.y.n.	E.v.	hurt, injure	s.l.y. yor sev x. rre yorr g.v.w. en x.y.n.  —METHOD_METAFALICA/.	Pastalie [Unofficial]
+xava	n.	wound		Unknown [Unofficial]
+xe	conj./v.	please (used before a verb), bestow, grant, receive (Note	Used when someone wants to state a feeling of great respect for the tower. Example: xe khal (please, protect me) It's not a daily used word)	Cluster Note
+xel	conj.	since ~ (time)	celetille clalliss xel marta pom mea  —EXEC_HARMONIOUS_FUSION/.	Unknown [Unofficial]
+xest	v.	change, transform	Rrha ki ra nha-HYMMNOS1x01 >> pat mea en xest SOL=MARTA > A2  —EXEC_SOL=FAGE/.	Cult Ciel Note
+xevxl	n.	despair	x. rre qejyu ssvid hiralg ag xevxl  —METHOD_METAFALICA/.	Unknown [Unofficial]
+xl	conj.	ever since ~	Wee yea ra wael dauan bexm xl yor cexm mea  —EXEC_VIENA/.	Central Standard Note
+xorg	adj.	proud		Unknown [Unofficial]
+y.m.q.	v.	bear fruit, ripen		New Testament of Pastalie
+y.y.	v.	heal, cure	x. sorr a.u.k. zess y.y. Ahiew_ayulsa/.  —METHOD_IMPLANTA/.	New Testament of Pastalie
+y.z.t.	v.	wish, desire, request	y.z.t. za rre vega f.s. t.k.d. ag zz t.k.d. tie hartes yor  —METHOD_METAFALICA/.	New Testament of Pastalie
+yaha	v.	laugh, smile	Wee yea ra wael nuih bexm xl yor yaha tes mea  —EXEC_VIENA/.	Central Standard Note
+yanje	adv.	forever, eternally	c.z. yor li yanje  —jy ra cc ci ce je xa jy r acc ci ce je xa rcc jy ra cc ar foul	Central Standard Note
+yant	E.s.II	frightened, scared	Was yant gagis chs hymmnos mea  —EXEC_LINKER	Metafalss Note
+yanwe	v.	treat with care	en melenas oure en yanwe oure sor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+yanyaue	adj.	important, valuable	Ridalnae sol ciel yanyaue manaf  —EXEC_HARMONIOUS	Metafalss Note
+yart	v.	meet (by chance), come across		Central Standard Note
+yaserwe	v.	relax, feel at ease	Was yea ra wael yorr yaserwe  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+yasra	adj.	gentle, kind, calm, quiet	en whai pauwel gaunji yasra whou na cenjue sor tou zuieg  —EXEC_CHRONICLE KEY	Metafalss Note
+yassa	v.	clear, achieve		Central Standard Note
+yatse	v.	give (positive emotions)		Central Standard Note
+yea	E.s.II	happy	Wee yea ra reen harton yos warma hynne reen yos warma hynne  —Eternally Bonded	Central Standard Note
+yeal	n.	line, beam, wire, string	Was yea ra hymme mea ks maya gyen yeal  —Hoshiyomi ~HOSHIYOMI~	Cult Ciel Note
+yeeel	adj.	far, distant	Hierle faura murfan anw yeeel ciel  —EXEC_VIENA/.	Cult Ciel Note
+yehah	n.	happiness, good fortune	Was yea ra crushue anw yehah dornpica rhaplanca  —EXEC_HIBERNATION/.	Central Standard Note
+yehar	v.	deallocate, unleash, release	tasyue yorr yehar elle fandel hierle  —EXEC_HARMONIOUS_FUSION/.	Metafalss Note
+yerwe	v.	chirp, bark, purr	Faura yerwe murfan anw sol ciel  —EXEC_HARMONIOUS	Metafalss Note
+yesse	verb	rear, raise		Unknown [Unofficial]
+yetere	adv.	if so, in that case		Central Standard Note
+yor	n.	you (object)	Rrha ki ra tie yor ini en nha  —Singing Hill	Central Standard Note
+yora	n.	you (plural object)	wee paks ga faf yora accrroad mea  —EXEC_SPHILIA/.	Central Standard Note
+yorr	n.	you (subject)	Whai yorr re heighte so  —EXEC_SPHILIA/.	Central Standard Note
+yorra	n.	you (plural subject)	ween shellan yorra accroad mea sarla oz enne  —EXEC_HARMONIOUS_FUSION/.	Central Standard Note
+yos	adv.	your, yours	aiph yos delij zuieg en nedle eterne falfa  —EXEC_CHRONICLE KEY	Central Standard Note
+yosyua	v.	comfort, console, amuse	Tasyue anw gyuss en yosyua yor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+yuez	adv.	mutually, reciprocally	Was yea ra chs yuez en yanje yanje pitod yor  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+yulun	verb	dissolve, homogenise		Unknown [Unofficial]
+yura	n.	balance of power		Central Standard Note
+z.z.x.	v.	(to) despair	x. sorr m.n.g. dn z.z.x.  —METHOD_REPLEKIA/.	New Testament of Pastalie
+zaam	noun	sea, ocean		Unknown [Unofficial]
+zadius	n.	hatred	zadius guatrz ruinie  —Colors~SEN~Will This Flower Bloom?	Metafalss Note
+zaffur	v.	struggle, oppose	Ma num ra tictim yorr wis kneet hueaf van yorr zaffur  —EXEC_DESPEDIA/.	Unknown [Unofficial]
+zahha	v.	advance, improve (Note	Used for the marching of a great number of people, such as knight company. Has heroic connotations).	Cult Ciel Note
+zalez	n.	waterfall		New Testament of Pastalie
+zarle	v.	fall (rain), downpour		Central Standard Note
+zarnn	n.	storm, tempest		Unknown [Unofficial]
+zash	adj./n.	painful, pain, agony	Wee yea ra yehar anw zash  —EXEC_VIENA/.	Central Standard Note
+zassyen	v.	swim	chs hasyu en zassyen der sielp  —EXEC_over.METHOD_SUBLIMATION/.~omness chs ciel sos infel	Central Standard Note
+zauve	n./adj.	clever, sagacious		Cult Ciel Note
+zeeth	n.	chain, chains	Ween colgen fayra Race mea wis gigeadeth zeeth tie yor  —EXEC_DESPEDIA/.	Central Standard Note
+zenva	v.	jump over, clear, transcend		Central Standard Note
+zess	adv.	like ~	ag a.u.k. zess x.y.n. mea  —METHOD_METAFALICA/.	New Testament of Pastalie
+zethpa	v.	cut, slash	Rrha paks ra chs viega zethpa yor  —EXEC_DESPEDIA/.	Central Standard Note
+zetsfy	n.	cruelty, harshness		Cult Ciel Note
+zixxa	noun	attitude, disposition, spirit		Unknown [Unofficial]
+zodal	n./v.	death, die, of death		Metafalss Note
+zodaw	n.	death	x. rre omness a.u.k. zodaw ess rudje noglle doodu  —EXEC_over.METHOD_SUBLIMATION/.~lamenza	Metafalss Note
+zuieg	n./adj.	(political) power, authority, influence	en whai pauwel gaunji yasra whou na cenjue sor tou zuieg  —EXEC_CHRONICLE KEY	Alpha Note (EOLIA)
+zweie	E.s.II	hiding determination in the heart, sincerity, earnestness	vine en vine zweie arsye yor  —The Heart Speaks	Central Standard Note
+zwihander	n./v.	success, win, triumph, victory		Central Standard Note
+zz	adv.	negation, denial, un-	y.z.t. za rre vega f.s. t.k.d. ag zz t.k.d. tie hartes yor  —METHOD_METAFALICA/.	New Testament of Pastalie
