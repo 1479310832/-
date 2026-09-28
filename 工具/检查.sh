@@ -60,7 +60,7 @@ for f in "$@"; do
   done < "$dir/高频词.txt"
 
   n=$(grep -cE '^[^「」『』“”"]{1,12}[。！？…]+$' "$f")
-  if [ "$n" -gt 25 ]; then echo "△ 短句单独成段 $n 处（建议不超过 25）"; fi
+  if [ "$n" -gt 140 ]; then echo "△ 短句单独成段 $n 处（太碎了，建议穿插正常长度的段落）"; fi
 
   talk=$(grep -oE '“[^”]*”|"[^"]*"|『[^』]*』' "$f" | tr -d '[:space:]' | wc -m | tr -d ' ')
   if [ "$chars" -gt 0 ]; then
