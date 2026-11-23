@@ -139,6 +139,47 @@
       "faction": "",
       "file": "memory\\entities\\factions\\罗斯韦尔公爵领.md",
       "description": "罗斯韦尔公爵领（白蔷薇家）"
+    },
+    "灰榆镇": {
+      "name": "灰榆镇",
+      "type": "location",
+      "tags": [
+        "地点",
+        "边陲商镇",
+        "罗斯韦尔公爵领",
+        "第一卷"
+      ],
+      "aliases": [],
+      "faction": "",
+      "file": "memory\\entities\\locations\\灰榆镇.md",
+      "description": "灰榆镇"
+    },
+    "白杨镇": {
+      "name": "白杨镇",
+      "type": "location",
+      "tags": [
+        "地点",
+        "边陲教区镇",
+        "白昼圣堂教廷",
+        "第二卷"
+      ],
+      "aliases": [],
+      "faction": "",
+      "file": "memory\\entities\\locations\\白杨镇.md",
+      "description": "白杨镇"
+    },
+    "落日自由港": {
+      "name": "落日自由港",
+      "type": "location",
+      "tags": [
+        "地点",
+        "终极目标",
+        "界隙遗迹"
+      ],
+      "aliases": [],
+      "faction": "",
+      "file": "memory\\entities\\locations\\落日自由港.md",
+      "description": "落日自由港"
     }
   },
   "relations": [
@@ -237,6 +278,30 @@
       "to": "白昼圣堂教廷",
       "type": "表面合作实则相互掣肘",
       "note": "世俗大公领与教廷在边境赋税、司法与情报网上长期暗斗"
+    },
+    {
+      "from": "灰榆镇",
+      "to": "罗斯韦尔公爵领",
+      "type": "隶属",
+      "note": "罗斯韦尔公爵领最西南边缘的过境商镇，毗邻灰水界河与白昼圣堂教区"
+    },
+    {
+      "from": "白杨镇",
+      "to": "白昼圣堂教廷",
+      "type": "隶属",
+      "note": "紧邻灰水界河的教廷东北边陲小镇，镇北山坡建有破旧石砌礼拜堂"
+    },
+    {
+      "from": "白杨镇",
+      "to": "艾琳娜",
+      "type": "软禁地",
+      "note": "圣女候补艾琳娜曾被教廷执事以银链软禁于镇北礼拜堂内"
+    },
+    {
+      "from": "落日自由港",
+      "to": "雨泠",
+      "type": "西行终点",
+      "note": "雨泠横跨奥尔兰大陆的终极目的地，传闻港外断崖存有界隙遗迹"
     }
   ]
 }
