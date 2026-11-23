@@ -78,4 +78,4 @@ relations:
 
 ## 依赖
 
-PyYAML（解析嵌套 YAML frontmatter）：`uv pip install pyyaml`
+零第三方依赖（优先使用 PyYAML；若新环境未安装 PyYAML，自动启用内置纯标准库 YAML 解析，开箱即用）。

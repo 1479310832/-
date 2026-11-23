@@ -314,52 +314,68 @@ def parse_frontmatter(content: str) -> Dict[str, Any]:
         import yaml
         result = yaml.safe_load(frontmatter_text) or {}
     except ImportError:
-        # 回退到简单解析
+        # 零依赖标准库回退解析（完整支持 tags 与嵌套 relations 列表）
         current_key = None
         current_list = []
+        current_item = None
+
+        def _flush_item():
+            nonlocal current_item
+            if current_item is not None:
+                current_list.append(current_item)
+                current_item = None
+
+        def _flush_key():
+            nonlocal current_key, current_list
+            _flush_item()
+            if current_key is not None:
+                result[current_key] = current_list
+                current_key = None
+                current_list = []
 
         for line in frontmatter_text.split("\n"):
+            if not line.strip() or line.strip().startswith("#"):
+                continue
             stripped = line.strip()
 
-            # 多行列表项
+            # 列表项（支持普通字符串项和 "- key: value" 字典项）
             if stripped.startswith("- ") and current_key:
-                current_list.append(stripped[2:].strip().strip("\"'"))
+                _flush_item()
+                item_text = stripped[2:].strip()
+                if ":" in item_text:
+                    k, v = item_text.split(":", 1)
+                    current_item = {k.strip(): v.strip().strip("\"'")}
+                else:
+                    current_list.append(item_text.strip("\"'"))
                 continue
 
-            # 普通键值对
-            if ":" in line and not line.startswith(" "):
-                # 保存之前的列表
-                if current_key and current_list:
-                    result[current_key] = current_list
-                    current_list = []
+            # 嵌套字典列表项的后续键（缩进的 "key: value"）
+            if line.startswith(" ") and current_item is not None and ":" in stripped:
+                k, v = stripped.split(":", 1)
+                current_item[k.strip()] = v.strip().strip("\"'")
+                continue
 
+            # 顶层键值对
+            if ":" in line and not line.startswith(" "):
+                _flush_key()
                 key, value = line.split(":", 1)
                 key = key.strip()
                 value = value.strip()
-                current_key = key
 
                 if not value:
+                    current_key = key
                     current_list = []
                 elif value.startswith("[") and value.endswith("]"):
                     items = value[1:-1].strip()
-                    if items:
-                        result[key] = [i.strip().strip("\"'") for i in items.split(",")]
-                    else:
-                        result[key] = []
-                    current_key = None
+                    result[key] = [i.strip().strip("\"'") for i in items.split(",")] if items else []
                 elif value.isdigit():
                     result[key] = int(value)
-                    current_key = None
                 elif value.lower() in ("true", "false"):
                     result[key] = value.lower() == "true"
-                    current_key = None
                 else:
                     result[key] = value.strip("\"'")
-                    current_key = None
 
-        # 保存最后的列表
-        if current_key and current_list:
-            result[current_key] = current_list
+        _flush_key()
 
     return result
 

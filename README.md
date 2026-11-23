@@ -4,24 +4,18 @@
 
 ---
 
-## 换电脑 30 秒续写指南
+## 换电脑一步续写指南（零额外依赖）
 
-### 1. 拉取本分支
+### 直接克隆本分支并打开即可
 ```bash
 git clone -b taodao-dalu-jintou --single-branch https://github.com/1479310832/-.git yuling-novel
-cd yuling-novel
 ```
+*(若你用 Git 图形工具克隆了整仓，克隆完把分支切到 `taodao-dalu-jintou` 即可；也可以在 GitHub 仓库 Settings → Branches 把默认分支设为 `taodao-dalu-jintou`，以后直接克隆连切分支都省了。)*
 
-### 2. 安装唯一 Python 依赖（用于知识图谱与质检脚本）
-确保本机已安装 Python 3.10+，然后执行：
-```bash
-pip install -r requirements.txt
-```
-*(若为 macOS / Linux，按环境使用 `python3` / `pip3` 即可。)*
-
-### 3. 在 Antigravity 打开该目录
-用 Antigravity 打开克隆下来的目录：
+### 打开即用（无需 `pip install`）
+用 Antigravity 打开目录即可直接续写：
 - 根目录下 `.agents/skills/` 中的 **15 个写作 Skill 会自动发现并仅在本工作区生效**；
+- 全部 8 个 Python 质检/图谱脚本均为**纯标准库零依赖**（只要电脑有 Python 即可直接跑，无需安装第三方包）；
 - 根目录 `AGENTS.md` 与 `逃到大陆尽头她们还是追上来了/AGENTS.md` 会自动加载《小说宪法》与当前进度；
 - 直接在对话里说：**「同步第 X 章」**、**「继续写下一章」** 或 **「讨论下一段事件」** 即可无缝续写。
 
@@ -32,8 +26,7 @@ pip install -r requirements.txt
 ```text
 .
 ├── AGENTS.md                                 # 工作区入口指路规则
-├── requirements.txt                          # Python 脚本唯一依赖（PyYAML）
-├── .agents/skills/                           # 15 个工作区专属小说创作 Skills（vibe-noveling + fiction-humanizer-zh）
+├── .agents/skills/                           # 15 个工作区专属小说创作 Skills（零第三方依赖）
 └── 逃到大陆尽头她们还是追上来了/
     ├── AGENTS.md                             # 本书《小说宪法》（7 维文风、人称规范、红线）
     ├── memory/                               # 知识图谱、世界观、角色/势力/能力卡、全书与卷大纲、事件卡
