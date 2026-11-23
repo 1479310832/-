@@ -1,0 +1,7 @@
+旧版/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+progress.html
+**/.snapshots/
