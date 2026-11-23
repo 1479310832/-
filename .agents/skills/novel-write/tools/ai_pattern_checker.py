@@ -78,6 +78,25 @@ PARAGRAPH_START_WORDS = [
 # 否定词开头的句子（在 。！？ 或行首之后）
 NEGATION_SENTENCE_RE = re.compile(r'(?:^|[。！？\n])(\s*(?:没有|不是|不会|不能|不再|并非|从未))')
 
+# 中文小说高频 AI 腔禁用词与模板动作（Rule 9）
+AI_FICTION_CLICHE_PATTERNS = [
+    (re.compile(r'攥'), '高频AI动词「攥」'),
+    (re.compile(r'眼眸|眸子|眸光|眸色'), '高频AI词「眼眸/眸」'),
+    (re.compile(r'(?:声音|语气|嗓音)很轻|轻声(?:开口|道|说|问|笑)|声音轻得'), '高频AI语态「声音很轻/轻声」'),
+    (re.compile(r'(?:唇角|唇边|嘴角)[^，。！？]{0,14}(?:弧度|上扬|微扬|勾起|弯起|抽搐)'), '高频AI微表情「唇角/嘴角弧度」'),
+    (re.compile(r'近乎'), '高频AI修饰「近乎」'),
+    (re.compile(r'(?:背脊|脊背)发(?:凉|寒|僵)|毛骨悚然'), '高频AI情绪词「背脊发凉」'),
+    (re.compile(r'(?:掠过|闪过|划过)一(?:丝|瞬|抹)'), '高频AI眼神特效「掠过/闪过一丝/一瞬」'),
+    (re.compile(r'一眨不眨|锁在[^，。！？]{0,8}脸上'), '高频AI凝视套话'),
+    (re.compile(r'指节泛白|喉结(?:滚动|微动)|瞳孔(?:骤缩|一缩|微缩)'), '高频AI身体模板'),
+    (re.compile(r'肉眼可见地|微微(?:偏头|抬起|挑眉|眯起|一顿|一滞)'), '高频AI动作修饰'),
+    (re.compile(r'微不可察|不知何时|空气(?:里|中)弥漫|毫不留情地宣告|死寂|腥甜|深吸一口气|低笑一声|嗤笑一声'), '高频AI叙述套词'),
+]
+
+# 高频弱修饰词单章上限（Rule 10）
+WEAK_MODIFIER_RE = re.compile(r'半分|半点|一丝|一抹')
+WEAK_MODIFIER_MAX = 2
+
 
 # ── 核心函数 ──────────────────────────────────────────────────────────
 
@@ -225,6 +244,33 @@ def check(text: str, threshold_config: Optional[dict] = None) -> list[dict]:
         violations.append({
             'rule': '否定词开头',
             'count': len(neg_sent_matches),
+            'items': items,
+        })
+
+    # 9. 中文小说高频 AI 腔禁用词与模板动作
+    cliche_items = []
+    for pat, label in AI_FICTION_CLICHE_PATTERNS:
+        for m in pat.finditer(narrative):
+            cliche_items.append({
+                'position': m.start(),
+                'context': _context(narrative, m.start()) + f'  [{label}]',
+            })
+    if cliche_items:
+        violations.append({
+            'rule': '小说高频AI腔',
+            'count': len(cliche_items),
+            'items': cliche_items,
+        })
+
+    # 10. 高频弱修饰词密度（半分/半点/一丝/一抹）
+    weak_matches = list(WEAK_MODIFIER_RE.finditer(narrative))
+    if len(weak_matches) > WEAK_MODIFIER_MAX:
+        items = []
+        for m in weak_matches:
+            items.append({'position': m.start(), 'context': _context(narrative, m.start())})
+        violations.append({
+            'rule': f'弱修饰词过密(>{WEAK_MODIFIER_MAX})',
+            'count': len(weak_matches),
             'items': items,
         })
 
