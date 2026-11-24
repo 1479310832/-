@@ -1,0 +1,12 @@
+# OS & Editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Temp & Local Outputs
+tmp/
+*.tmp
+.env
