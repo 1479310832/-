@@ -106,6 +106,13 @@ WUXIA_ARCHAIC_RE = re.compile(
     r'留具全尸|留个全尸|手刀|寸劲|丹田|内力|斗气|仁至义尽|事了拂衣去|打抱不平|江湖'
 )
 
+# 企划人设标签、网游系统框与出戏烂梗拦截（Rule 12，全文含对话一并检查）
+META_TAG_SLANG_RE = re.compile(
+    r'重女|病娇|傲娇|腹黑|三无|呆萌|白切黑|黑化|工具人|路人甲|'
+    r'男主(?!人)|女主(?!人|教|官)|后宫|修罗场|开无双|刷首杀|草泥马|扫地机器人|二维码|'
+    r'立flag|外挂|属性面板|新手面板|【[^】]+】'
+)
+
 
 # ── 核心函数 ──────────────────────────────────────────────────────────
 
@@ -295,6 +302,21 @@ def check(text: str, threshold_config: Optional[dict] = None) -> list[dict]:
         violations.append({
             'rule': '中式古装/武侠串味词',
             'count': len(wuxia_matches),
+            'items': items,
+        })
+
+    # 12. 企划人设标签、系统框与出戏烂梗检查（防第四面墙穿帮）
+    meta_matches = list(META_TAG_SLANG_RE.finditer(text))
+    if meta_matches:
+        items = []
+        for m in meta_matches:
+            items.append({
+                'position': m.start(),
+                'context': _context(text, m.start()) + f'  [{m.group(0)}]',
+            })
+        violations.append({
+            'rule': '企划标签/系统框穿帮词',
+            'count': len(meta_matches),
             'items': items,
         })
 
