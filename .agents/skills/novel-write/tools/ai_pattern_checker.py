@@ -97,6 +97,15 @@ AI_FICTION_CLICHE_PATTERNS = [
 WEAK_MODIFIER_RE = re.compile(r'半分|半点|一丝|一抹')
 WEAK_MODIFIER_MAX = 2
 
+# 日轻防串味：中式古装/武侠/明清市井禁用词（Rule 11，全文含对话一并检查）
+WUXIA_ARCHAIC_RE = re.compile(
+    r'时辰|半刻钟|一炷香|[一二三四五六七八九十百半两数几]息|'
+    r'[一二三四五六七八九十两半数几]丈|[一二三四五六七八九十两半数几]尺|'
+    r'客栈|掌柜|店小二|二老爷|老爵爷|大老爷|官道|驿馆|茅厕|'
+    r'泼皮|盘缠|行头|银两|碎银|护驾|候驾|用膳|罪该万死|血债血偿|'
+    r'留具全尸|留个全尸|手刀|寸劲|丹田|内力|斗气|仁至义尽|事了拂衣去|打抱不平|江湖'
+)
+
 
 # ── 核心函数 ──────────────────────────────────────────────────────────
 
@@ -271,6 +280,21 @@ def check(text: str, threshold_config: Optional[dict] = None) -> list[dict]:
         violations.append({
             'rule': f'弱修饰词过密(>{WEAK_MODIFIER_MAX})',
             'count': len(weak_matches),
+            'items': items,
+        })
+
+    # 11. 日式轻小说防串味检查（全文含对话禁中式古装/武侠词）
+    wuxia_matches = list(WUXIA_ARCHAIC_RE.finditer(text))
+    if wuxia_matches:
+        items = []
+        for m in wuxia_matches:
+            items.append({
+                'position': m.start(),
+                'context': _context(text, m.start()) + f'  [{m.group(0)}]',
+            })
+        violations.append({
+            'rule': '中式古装/武侠串味词',
+            'count': len(wuxia_matches),
             'items': items,
         })
 
