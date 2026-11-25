@@ -223,6 +223,20 @@
       "file": "memory\\entities\\locations\\落日自由港.md",
       "description": "落日自由港"
     },
+    "银轮城": {
+      "name": "银轮城",
+      "type": "location",
+      "tags": [
+        "地点",
+        "商贸重镇",
+        "交通枢纽",
+        "第三卷"
+      ],
+      "aliases": [],
+      "faction": "",
+      "file": "memory\\entities\\locations\\银轮城.md",
+      "description": "银轮城"
+    },
     "风铃驿镇": {
       "name": "风铃驿镇",
       "type": "location",
@@ -400,6 +414,18 @@
       "to": "雨泠",
       "type": "西行终点",
       "note": "雨泠横跨奥尔兰大陆的终极目的地，传闻港外断崖存有界隙遗迹"
+    },
+    {
+      "from": "银轮城",
+      "to": "永暮森域",
+      "type": "西邻重镇",
+      "note": "位于永暮森域西出口断风山口以西半日脚程的大陆西部交通十字枢纽"
+    },
+    {
+      "from": "银轮城",
+      "to": "落日自由港",
+      "type": "必经咽喉",
+      "note": "通往大陆尽头落日自由港购马补给的西部最大商贸咽喉城池"
     },
     {
       "from": "风铃驿镇",
